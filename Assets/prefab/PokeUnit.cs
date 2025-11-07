@@ -44,16 +44,20 @@ public enum PokeType
     Feu,
     Eau,
     Plante,
-    Électrik,
+    Électric,
+    Poison,
     Roche,
     Sol,
+    Vol,
     Glace,
     Combat,
     Psy,
+    Insecte,
     Spectre,
     Dragon,
     Ténèbres,
-    Fée
+    Fée,
+    Acier,
 }
 
 public enum PokeType2
@@ -64,13 +68,17 @@ public enum PokeType2
     Eau,
     Plante,
     Électrik,
+    Poison,
     Roche,
     Sol,
+    Vol,
     Glace,
     Combat,
     Psy,
+    Insecte,
     Spectre,
     Dragon,
     Ténèbres,
-    Fée
+    Fée,
+    Acier,
 }
