@@ -36,6 +36,9 @@ public class PokeUnit : ScriptableObject
     [Tooltip("Type principal de la créature (ex: Feu, Eau, Plante, etc.)")]
     public PokeType type = PokeType.Normal;
     public PokeType2 PokeType2 = PokeType2.Normal;
+    
+    [Header("Type de PokeBall")]
+    public Pokeball pokeball = Pokeball.Pokeball;
 }
 
 public enum PokeType
@@ -81,4 +84,22 @@ public enum PokeType2
     Ténèbres,
     Fée,
     Acier,
+}
+
+[System.Flags] 
+public enum Pokeball
+{
+    None = 0,
+    Pokeball = 1 << 0,
+    GreatBall = 1 << 1,
+    UltraBall = 1 << 2,
+    MasterBall = 1 << 3,
+    PremierBall = 1 << 4,
+    SafariBall = 1 << 5,
+    LuxuryBall = 1 << 6,
+    FriendBall = 1 << 7,
+    CherishBall = 1 << 8,
+    ParkBall = 1 << 9,
+    BeastBall = 1 << 10,
+    StrangeBall = 1 << 11,
 }
