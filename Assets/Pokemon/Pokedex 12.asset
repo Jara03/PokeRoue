@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88142450a0453c94f975ff9141e21f72, type: 3}
   m_Name: Pokedex 12
   m_EditorClassIdentifier: 
-  unitName: ButterFree
+  unitName: Butterfree
   artwork: {fileID: 0}
   pv: 60
   attaque: 45
@@ -20,5 +20,5 @@ MonoBehaviour:
   attaqueSpeciale: 90
   defenseSpeciale: 80
   vitesse: 70
-  type: 0
-  PokeType2: 0
+  type: 12
+  PokeType2: 9

@@ -20,5 +20,5 @@ MonoBehaviour:
   attaqueSpeciale: 80
   defenseSpeciale: 80
   vitesse: 150
-  type: 0
+  type: 4
   PokeType2: 0
