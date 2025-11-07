@@ -37,8 +37,8 @@ public class WheelGenerator : MonoBehaviour
 
             // --- Rotation du slice ---
             // On tourne chaque slice de façon à aligner son centre avec le bon angle
-           // float rotationOffset = currentAngle + sliceAngle / 2f;
-            //slice.transform.localRotation = Quaternion.Euler(0f, 0f, -rotationOffset);
+            float rotationOffset = currentAngle + sliceAngle;
+            slice.transform.localRotation = Quaternion.Euler(0f, 0f, -rotationOffset);
 
             // --- Texte setup ---
             var txt = slice.transform.GetChild(0).GetComponent<TextMeshProUGUI>();
@@ -47,13 +47,9 @@ public class WheelGenerator : MonoBehaviour
                 txt.text = seg.label;
 
                 // Positionne le texte au centre de la part
-                float angleRad = (currentAngle + sliceAngle / 2f) * Mathf.Deg2Rad;
-                Vector2 pos = new Vector2(
-                    Mathf.Sin(angleRad) * radius * 0.5f,
-                    Mathf.Cos(angleRad) * radius * 0.5f
-                );
-                txt.rectTransform.anchoredPosition = pos;
-                txt.rectTransform.localRotation = Quaternion.identity; // garde le texte droit
+                float angletext  = -90 + (sliceAngle/2);
+                Debug.Log(angletext);
+                txt.rectTransform.localRotation = Quaternion.Euler(0f, 0f, angletext);
             }
 
             currentAngle += sliceAngle;
