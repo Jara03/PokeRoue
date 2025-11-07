@@ -22,3 +22,4 @@ MonoBehaviour:
   vitesse: 100
   type: 2
   PokeType2: 6
+  pokeball: 2
