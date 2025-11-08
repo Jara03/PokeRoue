@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6bd6a96363f6df2479cd4a7bdf26bff5
+guid: 2c4ed6f41d128254c8a8e6d5329b9957
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3674761063238929667
-    second: Miniature_Master_Ball_HOME_0
+      213: -3428515838545709316
+    second: Miniature_Hyper_Ball_HOME_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,11 +109,24 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Miniature_Master_Ball_HOME_0
+      name: Miniature_Hyper_Ball_HOME_0
       rect:
         serializedVersion: 2
         x: 5
@@ -128,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: df2f43f5840a00dc0800000000000000
-      internalID: -3674761063238929667
+      spriteID: cf6bea882077b60d0800000000000000
+      internalID: -3428515838545709316
       vertices: []
       indices: 
       edges: []
@@ -148,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Miniature_Master_Ball_HOME_0: -3674761063238929667
+      Miniature_Hyper_Ball_HOME_0: -3428515838545709316
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

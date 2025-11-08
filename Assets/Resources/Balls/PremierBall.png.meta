@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3b8275a053cf29c4ba57674eb89f38fd
+guid: d307d688495d3af4689ba85fa314cdc5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4712214577340543845
-    second: Miniature_Luxe_Ball_HOME_0
+      213: -6122507334503114434
+    second: Miniature_Honor_Ball_HOME_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,11 +109,24 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Miniature_Luxe_Ball_HOME_0
+      name: Miniature_Honor_Ball_HOME_0
       rect:
         serializedVersion: 2
         x: 5
@@ -128,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 563fcc31136256140800000000000000
-      internalID: 4712214577340543845
+      spriteID: e39d738840c780ba0800000000000000
+      internalID: -6122507334503114434
       vertices: []
       indices: 
       edges: []
@@ -148,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Miniature_Luxe_Ball_HOME_0: 4712214577340543845
+      Miniature_Honor_Ball_HOME_0: -6122507334503114434
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
 using System.Linq;
+using Script;
 using UnityEngine.UI;
 using Random = UnityEngine.Random;
 
@@ -27,6 +28,7 @@ public class PokemonBuilder : MonoBehaviour
     [Tooltip("Compteur interne pour nommer les unités")]
     public int createdCount = 0;
     private Pokeball pkb = Pokeball.Pokeball;
+    private Arena arena = Arena.None;
     
     //le tuple nature produit un buff et un débuff de chaque coté du Tuple
     private string nature = null ;
@@ -67,6 +69,16 @@ public class PokemonBuilder : MonoBehaviour
         }  
     }
 
+    public void selectArena()
+    {
+        if (arena == Arena.None)
+        {
+            Debug.Log("Selection de l'arene de base : ");
+            spinWheelManager.OnSegmentSelected += OnArenaSelected;
+            wheel.LoadSegments(getArena()); 
+        }
+    }
+
     public WheelSegment[] getPokeBallList()
     {
         //fait une liste de toutes les pokeball de PokeUnit
@@ -76,10 +88,10 @@ public class PokemonBuilder : MonoBehaviour
         {
             WheelSegment segment = new WheelSegment
             {
-                //label = pokeball.ToString(),
+                label = pokeball.ToString(),
                 dropRate = 1f, // ou pondéré selon ton système
                 color = Random.ColorHSV(),
-                artwork = Resources.Load<Image>(resourcePath + pokeball.ToString()) // charger l'image de l'artwork
+                artwork = Resources.Load<Sprite>("Balls/" + pokeball.ToString()) // charger l'image de l'artwork
             };
 
             segments.Add(segment);
@@ -141,9 +153,31 @@ public class PokemonBuilder : MonoBehaviour
 
         }
         
-        Debug.Log($"{{segments.Count}} PokeType chargés depuis {resourcePath}");
+        Debug.Log($"{{segments.Count}} Natures chargés depuis {resourcePath}");
         return segments.ToArray();
 
+    }
+
+    public WheelSegment[] getArena()
+    {
+        //fait une liste de toutes les pokeball de PokeUnit
+        List<WheelSegment> segments = new List<WheelSegment>();
+
+        foreach (Arena arena in System.Enum.GetValues(typeof(Arena)))
+        {
+            if (arena == Arena.None) continue;
+            WheelSegment segment = new WheelSegment
+            {
+                label = arena.ToString(),
+                dropRate = 1f,
+                color = Random.ColorHSV(),
+            };
+            
+            segments.Add(segment);
+        }
+        
+        Debug.Log($"{{segments.Count}} Arenes chargés depuis {resourcePath}");
+        return segments.ToArray();
     }
     
     private void OnPokeballSelected(WheelSegment segment)
@@ -169,7 +203,16 @@ public class PokemonBuilder : MonoBehaviour
         spinWheelManager.OnSegmentSelected -= OnNatureSelected;
         nature = segment.label;
         Debug.Log($"✅ Nature choisie : {segment.label}");
+        selectArena(); // continue
+    }
+
+    private void OnArenaSelected(WheelSegment segment)
+    {
+        spinWheelManager.OnSegmentSelected -= OnArenaSelected;
+        arena = (Arena)Enum.Parse(typeof(Arena),segment.label);
+        Debug.Log($"✅ Arene choisie : {segment.label}");
         CreateClone(); // continue
+
     }
     
     private void CreateClone()
@@ -184,12 +227,15 @@ public class PokemonBuilder : MonoBehaviour
         newUnit.pokeball = baseUnit.pokeball;
         newUnit.nature = (Nature)Enum.Parse(typeof(Nature), nature);
         
+        
         newUnit.pv = baseUnit.pv;
         newUnit.attaque = baseUnit.attaque;
         newUnit.defense = baseUnit.defense;
         newUnit.attaqueSpeciale = baseUnit.attaqueSpeciale;
         newUnit.defenseSpeciale = baseUnit.defenseSpeciale;
         newUnit.vitesse = baseUnit.vitesse;
+        
+        setNature(newUnit);
 
         string assetPath = $"Assets/Resources/{outputFolder}/{newUnit.unitName}.asset";
 
@@ -203,6 +249,95 @@ public class PokemonBuilder : MonoBehaviour
         #endif
 
         createdCount++;
+    }
+
+    private void setNature(PokeUnit newUnit)
+    {
+        switch (newUnit.nature)
+        {
+            case Nature.Hardy:
+                break;
+            case Nature.Lonely:
+                newUnit.attaque += (baseUnit.attaque/10);
+                newUnit.defense -= (baseUnit.defense/10);
+                break;
+            case Nature.Brave:
+                newUnit.attaque += (baseUnit.attaque/10);
+                newUnit.vitesse -= (baseUnit.vitesse/10);
+                break;
+            case Nature.Adamant:
+                newUnit.attaque += (baseUnit.attaque/10);
+                newUnit.attaqueSpeciale -= (baseUnit.attaqueSpeciale/10);
+                break;
+            case Nature.Naughty:
+                newUnit.attaque += (baseUnit.attaque/10);
+                newUnit.defenseSpeciale -= (baseUnit.defenseSpeciale/10);
+                break;
+            case Nature.Bold:
+                newUnit.defense += (baseUnit.defense/10);
+                newUnit.attaque -= (baseUnit.attaque/10);
+                break;
+            case Nature.Impish:
+                newUnit.defense += (baseUnit.defense/10);
+                newUnit.attaqueSpeciale -= (baseUnit.attaqueSpeciale/10);
+                break;
+            case Nature.Lax:
+                newUnit.defense += (baseUnit.defense/10);
+                newUnit.defenseSpeciale -= (baseUnit.defenseSpeciale/10);
+                break;
+            case Nature.Relaxed:
+                newUnit.defense += (baseUnit.defense/10);
+                newUnit.vitesse -= (baseUnit.vitesse/10);
+                break;
+            case Nature.Modest:
+                newUnit.attaqueSpeciale += (baseUnit.attaqueSpeciale/10);
+                newUnit.attaque -= (baseUnit.attaque/10);
+                break;
+            case Nature.Mild:
+                newUnit.attaqueSpeciale += (baseUnit.attaqueSpeciale/10);
+                newUnit.defense -= (baseUnit.defense/10);
+                break;
+            case Nature.Quiet:
+                newUnit.attaqueSpeciale += (baseUnit.attaqueSpeciale/10);
+                newUnit.vitesse -= (baseUnit.vitesse/10);
+                break;
+            case Nature.Rash:
+                newUnit.attaqueSpeciale += (baseUnit.attaqueSpeciale/10);
+                newUnit.defense -= (baseUnit.defense/10);
+                break;
+            case Nature.Calm:
+                newUnit.defenseSpeciale += (baseUnit.defenseSpeciale/10);
+                newUnit.attaque -= (baseUnit.attaque/10);
+                break;
+            case Nature.Gentle:
+                newUnit.defenseSpeciale += (baseUnit.defenseSpeciale/10);
+                newUnit.defense -= (baseUnit.defense/10);
+                break;
+            case Nature.Sassy:
+                newUnit.defenseSpeciale += (baseUnit.defenseSpeciale/10);
+                newUnit.vitesse -= (baseUnit.vitesse/10);
+                break;
+            case Nature.Careful:
+                newUnit.defenseSpeciale += (baseUnit.defenseSpeciale/10);
+                newUnit.attaqueSpeciale -= (baseUnit.attaqueSpeciale/10);
+                break;
+            case Nature.Timid:
+                newUnit.vitesse += (baseUnit.vitesse/10);
+                newUnit.attaque -= (baseUnit.attaque/10);
+                break;
+            case Nature.Hasty:
+                newUnit.vitesse += (baseUnit.vitesse/10);
+                newUnit.defense -= (baseUnit.defense/10);
+                break;
+            case Nature.Jolly:
+                newUnit.vitesse += (baseUnit.vitesse/10);
+                newUnit.attaqueSpeciale -= (baseUnit.attaqueSpeciale/10);
+                break;
+            case Nature.Naive:
+                newUnit.vitesse += (baseUnit.vitesse/10);
+                newUnit.defenseSpeciale -= (baseUnit.defenseSpeciale/10);
+                break;
+        }
     }
     
 

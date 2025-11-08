@@ -7,5 +7,5 @@ public class WheelSegment
     public string label;
     [Range(0f, 1f)] public float dropRate;
     public Color color = Color.white;
-    public Image artwork;
+    public Sprite artwork;
 }

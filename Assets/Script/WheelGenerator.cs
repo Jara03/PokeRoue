@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
@@ -39,7 +40,7 @@ public class WheelGenerator : MonoBehaviour
             // On tourne chaque slice de façon à aligner son centre avec le bon angle
             float rotationOffset = currentAngle + sliceAngle;
             slice.transform.localRotation = Quaternion.Euler(0f, 0f, -rotationOffset);
-
+            float angletext  = -90 + (sliceAngle/2);
             // --- Texte setup ---
             var txt = slice.transform.GetChild(0).GetComponent<TextMeshProUGUI>();
             if (txt)
@@ -47,9 +48,24 @@ public class WheelGenerator : MonoBehaviour
                 txt.text = seg.label;
 
                 // Positionne le texte au centre de la part
-                float angletext  = -90 + (sliceAngle/2);
+               
                 txt.rectTransform.localRotation = Quaternion.Euler(0f, 0f, angletext);
             }
+
+           
+                // --- Artwork setup ---
+                var artwork = slice.transform.GetChild(1).GetChild(0).GetComponent<Image>();
+                
+                if (seg.artwork != null)
+                {
+                    artwork.sprite = seg.artwork;
+                    artwork.color = new Color(1f, 1f, 1f, 1f);
+                    
+                    slice.transform.GetChild(1).transform.localRotation = Quaternion.Euler(0f, 0f,(sliceAngle/2));
+                    
+                    txt.text = "";
+                }
+                
 
             currentAngle += sliceAngle;
         }

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d307d688495d3af4689ba85fa314cdc5
+guid: 1d85763c234e0fb478305fcf8522080d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6122507334503114434
-    second: Miniature_Honor_Ball_HOME_0
+      213: -2346743468035281686
+    second: Miniature_Safari_Ball_HOME_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,11 +109,24 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Miniature_Honor_Ball_HOME_0
+      name: Miniature_Safari_Ball_HOME_0
       rect:
         serializedVersion: 2
         x: 5
@@ -128,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e39d738840c780ba0800000000000000
-      internalID: -6122507334503114434
+      spriteID: aece9c8df31be6fd0800000000000000
+      internalID: -2346743468035281686
       vertices: []
       indices: 
       edges: []
@@ -148,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Miniature_Honor_Ball_HOME_0: -6122507334503114434
+      Miniature_Safari_Ball_HOME_0: -2346743468035281686
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
