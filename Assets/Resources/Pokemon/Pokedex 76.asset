@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88142450a0453c94f975ff9141e21f72, type: 3}
+  m_Name: Pokedex 76
+  m_EditorClassIdentifier: 
+  unitName: Golem
+  artwork: {fileID: 5762756798749892020, guid: 78537cbcceaf5684d8ab6eb0190f441f, type: 3}
+  pv: 80
+  attaque: 120
+  defense: 130
+  attaqueSpeciale: 55
+  defenseSpeciale: 65
+  vitesse: 45
+  type: 6
+  PokeType2: 8
+  pokeball: 9

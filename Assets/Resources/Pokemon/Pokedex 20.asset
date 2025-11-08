@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88142450a0453c94f975ff9141e21f72, type: 3}
+  m_Name: Pokedex 20
+  m_EditorClassIdentifier: 
+  unitName: Raticate
+  artwork: {fileID: -5247857531435582653, guid: fd5e2e33068497944873254cc40905fd, type: 3}
+  pv: 55
+  attaque: 81
+  defense: 60
+  attaqueSpeciale: 50
+  defenseSpeciale: 70
+  vitesse: 97
+  type: 0
+  PokeType2: 0
+  pokeball: 5

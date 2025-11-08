@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88142450a0453c94f975ff9141e21f72, type: 3}
+  m_Name: Pokedex 46
+  m_EditorClassIdentifier: 
+  unitName: Paras
+  artwork: {fileID: 6027875366606473062, guid: 54f74c3c1bbaac54389d0a7ab8b636ba, type: 3}
+  pv: 35
+  attaque: 70
+  defense: 55
+  attaqueSpeciale: 45
+  defenseSpeciale: 55
+  vitesse: 25
+  type: 12
+  PokeType2: 4
+  pokeball: 3

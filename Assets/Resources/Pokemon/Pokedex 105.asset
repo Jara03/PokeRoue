@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88142450a0453c94f975ff9141e21f72, type: 3}
+  m_Name: Pokedex 105
+  m_EditorClassIdentifier: 
+  unitName: Marowak
+  artwork: {fileID: 8111945880492297015, guid: 9e8f33b17081cf64b8f651ae63a30b0c, type: 3}
+  pv: 60
+  attaque: 80
+  defense: 110
+  attaqueSpeciale: 50
+  defenseSpeciale: 80
+  vitesse: 45
+  type: 7
+  PokeType2: 0
+  pokeball: 5

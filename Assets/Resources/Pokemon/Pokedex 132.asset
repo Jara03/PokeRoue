@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88142450a0453c94f975ff9141e21f72, type: 3}
+  m_Name: Pokedex 132
+  m_EditorClassIdentifier: 
+  unitName: Ditto
+  artwork: {fileID: -1323014338565606331, guid: f0700fbb5fa7dd4419511ab5e1ceb19b, type: 3}
+  pv: 48
+  attaque: 48
+  defense: 48
+  attaqueSpeciale: 48
+  defenseSpeciale: 48
+  vitesse: 48
+  type: 0
+  PokeType2: 0
+  pokeball: 3

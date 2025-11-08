@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88142450a0453c94f975ff9141e21f72, type: 3}
+  m_Name: Pokedex 141
+  m_EditorClassIdentifier: 
+  unitName: Kabutops
+  artwork: {fileID: -3126923770005615721, guid: e0445a9af435316428694ca4aea4cb5f, type: 3}
+  pv: 60
+  attaque: 115
+  defense: 105
+  attaqueSpeciale: 65
+  defenseSpeciale: 70
+  vitesse: 80
+  type: 6
+  PokeType2: 3
+  pokeball: 5

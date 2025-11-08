@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88142450a0453c94f975ff9141e21f72, type: 3}
+  m_Name: Pokedex 82
+  m_EditorClassIdentifier: 
+  unitName: Magneton
+  artwork: {fileID: -7310240519738844850, guid: 7d7690f04581bec44b28b9cb19a16a71, type: 3}
+  pv: 50
+  attaque: 60
+  defense: 95
+  attaqueSpeciale: 120
+  defenseSpeciale: 70
+  vitesse: 70
+  type: 4
+  PokeType2: 0
+  pokeball: 5

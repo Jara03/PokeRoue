@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88142450a0453c94f975ff9141e21f72, type: 3}
+  m_Name: Pokedex 47
+  m_EditorClassIdentifier: 
+  unitName: Parasect
+  artwork: {fileID: 6225756881559701519, guid: ca92e532b2c91694584c90e4f218bdc4, type: 3}
+  pv: 60
+  attaque: 95
+  defense: 80
+  attaqueSpeciale: 60
+  defenseSpeciale: 80
+  vitesse: 30
+  type: 12
+  PokeType2: 4
+  pokeball: 5

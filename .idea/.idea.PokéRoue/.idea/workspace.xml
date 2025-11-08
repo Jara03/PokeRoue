@@ -124,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1762535242431</updated>
       <workItem from="1762535260523" duration="11730000" />
-      <workItem from="1762589169541" duration="15336000" />
+      <workItem from="1762589169541" duration="15637000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -190,7 +190,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762607014879</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="moved Pokemon files into Resources">
+      <option name="closed" value="true" />
+      <created>1762607203607</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1762607203607</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added Resources.meta">
+      <option name="closed" value="true" />
+      <created>1762607328418</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1762607328418</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +241,9 @@
     <MESSAGE value="added Nature field" />
     <MESSAGE value="added pokemon builder" />
     <MESSAGE value="added meta file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added meta file" />
+    <MESSAGE value="moved Pokemon files into Resources" />
+    <MESSAGE value="added Resources.meta" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Resources.meta" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
