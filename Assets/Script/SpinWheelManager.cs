@@ -79,6 +79,8 @@ public class SpinWheelManager : MonoBehaviour
 
         wheel.transform.eulerAngles = new Vector3(0, 0, endAngle);
         spinning = false;
+        //attendre x secondes avant de terminer la fonction
+        yield return new WaitForSeconds(2f);
 
         Debug.Log($"Résultat : {wheel.segments[winnerIndex].label}");
         OnSegmentSelected?.Invoke(wheel.segments[winnerIndex]);

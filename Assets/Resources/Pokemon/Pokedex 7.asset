@@ -20,6 +20,7 @@ MonoBehaviour:
   attaqueSpeciale: 50
   defenseSpeciale: 64
   vitesse: 43
+  nature: 0
   type: 2
   PokeType2: 0
-  pokeball: 515
+  pokeball: 131

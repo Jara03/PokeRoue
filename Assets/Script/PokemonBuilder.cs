@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
 using System.Linq;
+using UnityEngine.UI;
 using Random = UnityEngine.Random;
 
 public class PokemonBuilder : MonoBehaviour
@@ -75,9 +76,10 @@ public class PokemonBuilder : MonoBehaviour
         {
             WheelSegment segment = new WheelSegment
             {
-                label = pokeball.ToString(),
+                //label = pokeball.ToString(),
                 dropRate = 1f, // ou pondéré selon ton système
-                color = Random.ColorHSV()
+                color = Random.ColorHSV(),
+                artwork = Resources.Load<Image>(resourcePath + pokeball.ToString()) // charger l'image de l'artwork
             };
 
             segments.Add(segment);
@@ -92,12 +94,11 @@ public class PokemonBuilder : MonoBehaviour
         // 🔍 Charge tous les PokeUnits depuis Resources/Pokemon
         PokeUnit[] pokeUnits = Resources.LoadAll<PokeUnit>(resourcePath);
         
-        // Filtre uniquement ceux qui contiennent le flag de Pokeball sélectionné
+        // filtrage des pokeball
         PokeUnit[] filteredUnits = pokeUnits
-            .Where(u => (u.pokeball == pkb))
+            .Where(u => (u.pokeball & pkb) != 0)
             .ToArray();
-        
-        Debug.Log(filteredUnits.Length);
+
         
         List<WheelSegment> segments = new List<WheelSegment>();
 
@@ -210,20 +211,27 @@ public class PokemonBuilder : MonoBehaviour
     {
         switch (type)
         {
-            case PokeType.Feu: return new Color(1f, 0.4f, 0.2f);
-            case PokeType.Eau: return new Color(0.2f, 0.5f, 1f);
-            case PokeType.Plante: return new Color(0.3f, 0.8f, 0.3f);
-            case PokeType.Électric: return new Color(1f, 0.9f, 0.2f);
-            case PokeType.Roche: return new Color(0.6f, 0.5f, 0.4f);
-            case PokeType.Glace: return new Color(0.6f, 0.9f, 1f);
-            case PokeType.Combat: return new Color(0.8f, 0.3f, 0.3f);
-            case PokeType.Psy: return new Color(0.9f, 0.2f, 0.9f);
-            case PokeType.Spectre: return new Color(0.5f, 0.3f, 0.8f);
-            case PokeType.Dragon: return new Color(0.3f, 0.2f, 0.9f);
-            case PokeType.Ténèbres: return new Color(0.2f, 0.2f, 0.2f);
-            case PokeType.Fée: return new Color(1f, 0.6f, 0.9f);
-            default: return Color.white;
+            case PokeType.Normal:   return new Color(0.78f, 0.78f, 0.62f);   // Beige-gris
+            case PokeType.Feu:      return new Color(1f, 0.4f, 0.2f);        // Orange vif
+            case PokeType.Eau:      return new Color(0.2f, 0.5f, 1f);        // Bleu océan
+            case PokeType.Plante:   return new Color(0.3f, 0.8f, 0.3f);      // Vert feuille
+            case PokeType.Électric: return new Color(1f, 0.9f, 0.2f);        // Jaune vif
+            case PokeType.Poison:   return new Color(0.6f, 0.2f, 0.7f);      // Violet toxique
+            case PokeType.Roche:    return new Color(0.6f, 0.5f, 0.4f);      // Brun pierre
+            case PokeType.Sol:      return new Color(0.82f, 0.7f, 0.35f);    // Brun sable
+            case PokeType.Vol:      return new Color(0.55f, 0.7f, 1f);       // Bleu ciel
+            case PokeType.Glace:    return new Color(0.6f, 0.9f, 1f);        // Bleu glacé
+            case PokeType.Combat:   return new Color(0.8f, 0.3f, 0.3f);      // Rouge brique
+            case PokeType.Psy:      return new Color(0.9f, 0.2f, 0.9f);      // Rose-violet
+            case PokeType.Insecte:  return new Color(0.55f, 0.75f, 0.25f);    // Vert olive
+            case PokeType.Spectre:  return new Color(0.5f, 0.3f, 0.8f);      // Violet profond
+            case PokeType.Dragon:   return new Color(0.3f, 0.2f, 0.9f);      // Bleu indigo
+            case PokeType.Ténèbres: return new Color(0.2f, 0.2f, 0.2f);      // Gris anthracite
+            case PokeType.Fée:      return new Color(1f, 0.6f, 0.9f);        // Rose pastel
+            case PokeType.Acier:    return new Color(0.7f, 0.7f, 0.8f);      // Gris métal
+            default:                return new Color(0.5f, 0.5f, 0.5f);     // Gris clair;
         }
+
     }
     
 }

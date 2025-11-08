@@ -94,15 +94,15 @@ public enum PokeType2
 public enum Pokeball
 {
     PremierBall = 0,
-    Pokeball = 1 << 0,
-    GreatBall = 1 << 1,
-    UltraBall = 1 << 2,
-    MasterBall = 1 << 3,
-    LuxuryBall = 1 << 4,
-    SafaryBall = 1 << 5,
-    CherishBall = 1 << 6,
-    BeastBall = 1 << 7,
-    StrangeBall = 1 << 8,
+    Pokeball = 1 << 1,
+    GreatBall = 1 << 2,
+    UltraBall = 1 << 3,
+    MasterBall = 1 << 4,
+    LuxuryBall = 1 << 5,
+    SafaryBall = 1 << 6,
+   // CherishBall = 1 << 6,
+   // BeastBall = 1 << 7,
+    StrangeBall = 1 << 7,
 }
 
 public enum Nature

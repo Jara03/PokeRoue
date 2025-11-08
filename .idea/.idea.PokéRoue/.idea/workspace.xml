@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ad79006-23fe-4cd3-95b3-e1cb0b031c46" name="Changes" comment="" />
+    <list default="true" id="4ad79006-23fe-4cd3-95b3-e1cb0b031c46" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PokéRoue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PokéRoue/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 1.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 2.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 3.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 4.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 4.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 5.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 5.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 6.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 6.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 7.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 7.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 8.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 8.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 9.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Pokemon/Pokedex 9.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TirageRoue.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TirageRoue.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/PokemonBuilder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/PokemonBuilder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SpinWheelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SpinWheelManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/WheelSegment.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/WheelSegment.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/prefab/PokeUnit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/prefab/PokeUnit.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/prefab/SlicePrefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/prefab/SlicePrefab.prefab" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1762535242431</updated>
       <workItem from="1762535260523" duration="11730000" />
-      <workItem from="1762589169541" duration="15637000" />
+      <workItem from="1762589169541" duration="20867000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -206,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762607328418</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added pokemons">
+      <option name="closed" value="true" />
+      <created>1762607390047</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762607390047</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +268,8 @@
     <MESSAGE value="added meta file" />
     <MESSAGE value="moved Pokemon files into Resources" />
     <MESSAGE value="added Resources.meta" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Resources.meta" />
+    <MESSAGE value="added pokemons" />
+    <option name="LAST_COMMIT_MESSAGE" value="added pokemons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
