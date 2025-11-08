@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88142450a0453c94f975ff9141e21f72, type: 3}
   m_Name: Alternate Pokemon 35
   m_EditorClassIdentifier: 
-  unitName: Galarian Zapdos
+  unitName: Galarian Moltres
   artwork: {fileID: 0}
   pv: 90
-  attaque: 125
+  attaque: 85
   defense: 90
-  attaqueSpeciale: 85
-  defenseSpeciale: 90
-  vitesse: 100
-  type: 7
+  attaqueSpeciale: 100
+  defenseSpeciale: 125
+  vitesse: 90
+  type: 15
   PokeType2: 9
   pokeball: 17
