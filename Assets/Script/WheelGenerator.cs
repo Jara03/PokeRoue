@@ -48,11 +48,17 @@ public class WheelGenerator : MonoBehaviour
 
                 // Positionne le texte au centre de la part
                 float angletext  = -90 + (sliceAngle/2);
-                Debug.Log(angletext);
                 txt.rectTransform.localRotation = Quaternion.Euler(0f, 0f, angletext);
             }
 
             currentAngle += sliceAngle;
         }
     }
+
+    public void LoadSegments(WheelSegment[] segments)
+    {
+        this.segments = segments;
+        Generate();
+    }
+    
 }

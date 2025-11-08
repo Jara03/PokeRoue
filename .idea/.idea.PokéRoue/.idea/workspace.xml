@@ -6,7 +6,390 @@
   <component name="ChangeListManager">
     <list default="true" id="4ad79006-23fe-4cd3-95b3-e1cb0b031c46" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PokéRoue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PokéRoue/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Search.settings" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Search.settings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 1.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 1.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 10.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 10.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 11.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 11.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 12.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 12.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 13.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 13.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 14.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 14.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 15.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 15.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 16.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 16.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 17.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 17.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 18.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 18.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 19.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 19.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 2.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 2.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 20.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 20.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 21.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 21.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 22.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 22.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 23.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 23.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 24.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 24.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 25.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 25.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 26.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 26.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 27.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 27.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 28.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 28.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 29.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 29.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 3.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 3.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 30.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 30.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 31.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 31.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 32.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 32.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 33.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 33.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 34.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 34.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 35.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 35.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 4.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 4.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 5.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 5.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 6.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 6.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 7.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 7.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 8.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 8.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 9.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon 9.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Alternate Pokemon.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 1.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 1.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 10.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 10.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 100.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 100.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 101.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 101.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 102.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 102.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 103.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 103.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 104.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 104.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 105.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 105.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 106.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 106.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 107.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 107.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 108.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 108.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 109.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 109.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 11.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 11.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 110.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 110.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 111.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 111.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 112.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 112.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 113.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 113.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 114.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 114.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 115.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 115.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 116.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 116.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 117.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 117.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 118.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 118.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 119.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 119.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 12.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 12.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 120.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 120.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 121.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 121.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 122.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 122.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 123.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 123.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 124.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 124.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 125.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 125.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 126.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 126.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 127.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 127.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 128.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 128.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 129.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 129.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 13.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 13.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 130.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 130.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 131.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 131.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 132.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 132.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 133.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 133.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 134.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 134.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 135.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 135.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 136.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 136.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 137.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 137.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 138.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 138.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 139.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 139.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 14.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 14.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 140.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 140.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 141.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 141.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 142.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 142.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 143.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 143.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 144.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 144.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 145.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 145.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 146.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 146.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 147.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 147.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 148.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 148.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 149.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 149.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 15.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 15.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 150.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 150.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 151.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 151.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 16.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 16.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 17.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 17.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 18.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 18.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 19.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 19.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 2.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 2.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 20.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 20.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 21.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 21.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 22.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 22.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 23.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 23.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 24.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 24.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 25.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 25.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 26.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 26.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 27.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 27.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 28.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 28.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 29.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 29.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 3.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 3.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 30.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 30.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 31.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 31.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 32.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 32.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 33.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 33.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 34.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 34.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 35.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 35.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 36.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 36.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 37.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 37.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 38.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 38.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 39.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 39.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 4.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 4.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 40.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 40.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 41.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 41.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 42.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 42.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 43.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 43.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 44.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 44.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 45.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 45.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 46.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 46.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 47.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 47.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 48.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 48.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 49.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 49.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 5.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 5.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 50.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 50.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 51.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 51.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 52.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 52.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 53.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 53.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 54.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 54.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 55.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 55.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 56.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 56.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 57.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 57.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 58.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 58.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 59.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 59.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 6.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 6.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 60.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 60.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 61.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 61.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 62.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 62.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 63.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 63.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 64.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 64.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 65.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 65.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 66.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 66.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 67.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 67.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 68.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 68.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 69.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 69.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 7.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 7.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 70.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 70.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 71.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 71.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 72.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 72.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 73.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 73.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 74.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 74.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 75.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 75.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 76.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 76.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 77.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 77.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 78.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 78.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 79.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 79.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 8.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 8.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 80.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 80.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 81.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 81.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 82.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 82.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 83.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 83.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 84.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 84.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 85.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 85.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 86.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 86.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 87.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 87.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 88.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 88.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 89.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 89.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 9.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 9.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 90.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 90.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 91.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 91.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 92.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 92.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 93.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 93.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 94.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 94.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 95.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 95.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 96.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 96.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 97.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 97.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 98.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 98.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 99.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex 99.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pokemon/Pokedex.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TirageRoue.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TirageRoue.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SpinWheelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SpinWheelManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/WheelGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/WheelGenerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/prefab/PokeUnit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/prefab/PokeUnit.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-6000.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-6000.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +412,11 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/PokemonBuilder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/SpinWheelManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/WheelGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/WheelSegment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/prefab/PokeUnit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -47,6 +432,7 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -115,7 +501,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762535242431</updated>
-      <workItem from="1762535260523" duration="11271000" />
+      <workItem from="1762535260523" duration="11730000" />
+      <workItem from="1762589169541" duration="14789000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -149,7 +536,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762553126436</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fixed Pokeball selection">
+      <option name="closed" value="true" />
+      <created>1762554670562</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762554670562</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,7 +575,8 @@
     <MESSAGE value="added PokeUnit object" />
     <MESSAGE value="fixed WheelGenerator.cs" />
     <MESSAGE value="added Pokeball Flags" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Pokeball Flags" />
+    <MESSAGE value="fixed Pokeball selection" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed Pokeball selection" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

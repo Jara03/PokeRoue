@@ -32,6 +32,10 @@ public class PokeUnit : ScriptableObject
     [Tooltip("Vitesse d'exécution ou d'esquive")]
     public int vitesse = 0;
 
+    
+    [Tooltip("Nature du Pokemon")]
+    public Nature nature = Nature.None;
+    
     [Header("Type élémentaire")]
     [Tooltip("Type principal de la créature (ex: Feu, Eau, Plante, etc.)")]
     public PokeType type = PokeType.Normal;
@@ -99,4 +103,34 @@ public enum Pokeball
     CherishBall = 1 << 6,
     BeastBall = 1 << 7,
     StrangeBall = 1 << 8,
+}
+
+public enum Nature
+{
+    None,
+    Lonely,
+    Brave,
+    Adamant,
+    Naughty,
+    Bold,
+    Docile,
+    Relaxed,
+    Impish,
+    Lax,
+    Timid,
+    Hasty,
+    Serious,
+    Modest,
+    Mild,
+    Quiet,
+    Bashful,
+    Rash,
+    Calm,
+    Gentle,
+    Sassy,
+    Careful,
+    Quirky,
+    Hardy,
+    Jolly,
+    Naive,
 }

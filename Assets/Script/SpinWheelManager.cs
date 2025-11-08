@@ -1,5 +1,7 @@
+using System;
 using UnityEngine;
 using System.Collections;
+using Random = UnityEngine.Random;
 
 public class SpinWheelManager : MonoBehaviour
 {
@@ -10,12 +12,16 @@ public class SpinWheelManager : MonoBehaviour
 
     private bool spinning = false;
     private float[] cumulativeWeights;
+    
+    public event Action<WheelSegment> OnSegmentSelected;
+
 
     void Start()
     {
         if (wheel == null) wheel = GetComponent<WheelGenerator>();
         wheel.Generate();
         ComputeCumulativeWeights();
+        
     }
 
     void Update()
@@ -75,6 +81,7 @@ public class SpinWheelManager : MonoBehaviour
         spinning = false;
 
         Debug.Log($"Résultat : {wheel.segments[winnerIndex].label}");
+        OnSegmentSelected?.Invoke(wheel.segments[winnerIndex]);
     }
 
     float GetTargetAngle(int index)
