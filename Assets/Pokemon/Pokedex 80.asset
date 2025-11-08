@@ -22,3 +22,4 @@ MonoBehaviour:
   vitesse: 30
   type: 2
   PokeType2: 12
+  pokeball: 5

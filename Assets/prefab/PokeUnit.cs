@@ -89,17 +89,14 @@ public enum PokeType2
 [System.Flags] 
 public enum Pokeball
 {
-    None = 0,
+    PremierBall = 0,
     Pokeball = 1 << 0,
     GreatBall = 1 << 1,
     UltraBall = 1 << 2,
     MasterBall = 1 << 3,
-    PremierBall = 1 << 4,
-    SafariBall = 1 << 5,
-    LuxuryBall = 1 << 6,
-    FriendBall = 1 << 7,
-    CherishBall = 1 << 8,
-    ParkBall = 1 << 9,
-    BeastBall = 1 << 10,
-    StrangeBall = 1 << 11,
+    LuxuryBall = 1 << 4,
+    SafaryBall = 1 << 5,
+    CherishBall = 1 << 6,
+    BeastBall = 1 << 7,
+    StrangeBall = 1 << 8,
 }
