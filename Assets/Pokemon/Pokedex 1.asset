@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 1
   m_EditorClassIdentifier: 
   unitName: Bulbasaur
-  artwork: {fileID: 0}
+  artwork: {fileID: -4834686007230223264, guid: 4b1a5274896261e4f8dbef0ca6b737f7, type: 3}
   pv: 45
   attaque: 49
   defense: 49

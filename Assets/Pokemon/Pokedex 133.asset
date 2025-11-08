@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 133
   m_EditorClassIdentifier: 
   unitName: Eevee
-  artwork: {fileID: 0}
+  artwork: {fileID: 8071953488654729682, guid: 38477fefaa84ed949ad3716dd6ea6917, type: 3}
   pv: 55
   attaque: 55
   defense: 50

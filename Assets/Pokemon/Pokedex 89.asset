@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 89
   m_EditorClassIdentifier: 
   unitName: Muk
-  artwork: {fileID: 0}
+  artwork: {fileID: 2158407313889990175, guid: 9122ef21bb89ef94e93ed7c80d34119b, type: 3}
   pv: 105
   attaque: 105
   defense: 75

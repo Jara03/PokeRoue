@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 136
   m_EditorClassIdentifier: 
   unitName: Flareon
-  artwork: {fileID: 0}
+  artwork: {fileID: -6756937840398360194, guid: 738cd3f083af3bf4f8fa2f4eb0538a0b, type: 3}
   pv: 65
   attaque: 130
   defense: 60

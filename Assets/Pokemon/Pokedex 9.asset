@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 9
   m_EditorClassIdentifier: 
   unitName: Blastoise
-  artwork: {fileID: 0}
+  artwork: {fileID: -6173644085176035322, guid: 58717ef0ff2bf1948bba9084df61136e, type: 3}
   pv: 79
   attaque: 83
   defense: 100

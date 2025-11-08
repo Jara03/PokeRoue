@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 116
   m_EditorClassIdentifier: 
   unitName: Horsea
-  artwork: {fileID: 0}
+  artwork: {fileID: -6581557025449765359, guid: f211f2d8d15bc554caac25f50be90d2b, type: 3}
   pv: 30
   attaque: 40
   defense: 70

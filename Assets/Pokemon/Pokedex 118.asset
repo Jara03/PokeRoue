@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 118
   m_EditorClassIdentifier: 
   unitName: Goldeen
-  artwork: {fileID: 0}
+  artwork: {fileID: -2083829734623068508, guid: bb247a00fa90cf54987e1e87c7b2f75d, type: 3}
   pv: 45
   attaque: 67
   defense: 60

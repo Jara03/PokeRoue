@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 20
   m_EditorClassIdentifier: 
   unitName: Galarian Slowpoke
-  artwork: {fileID: 0}
+  artwork: {fileID: -1233719970214671123, guid: 78b7389eba14d614581770a43f87128c, type: 3}
   pv: 95
   attaque: 100
   defense: 95

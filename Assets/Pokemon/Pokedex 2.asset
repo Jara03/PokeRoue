@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 2
   m_EditorClassIdentifier: 
   unitName: Ivysaur
-  artwork: {fileID: 0}
+  artwork: {fileID: -7787479690785777960, guid: a5b6242fe614d5947a36d442bf8d3bd7, type: 3}
   pv: 60
   attaque: 62
   defense: 63

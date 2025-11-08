@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 23
   m_EditorClassIdentifier: 
   unitName: Ekans
-  artwork: {fileID: 0}
+  artwork: {fileID: -573817819384921796, guid: dce19a3faa7032c4b834782edd0dee72, type: 3}
   pv: 35
   attaque: 60
   defense: 44

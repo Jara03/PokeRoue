@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 140
   m_EditorClassIdentifier: 
   unitName: Kabuto
-  artwork: {fileID: 0}
+  artwork: {fileID: 6644849644521915655, guid: be6917cab33fac64fae87bcdb3de76ec, type: 3}
   pv: 30
   attaque: 80
   defense: 90

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 24
   m_EditorClassIdentifier: 
   unitName: Hisuian Voltorb
-  artwork: {fileID: 0}
+  artwork: {fileID: -4787154973216608505, guid: eafd5ad9016593e4bbede03ebbc12235, type: 3}
   pv: 40
   attaque: 30
   defense: 50

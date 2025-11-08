@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 87
   m_EditorClassIdentifier: 
   unitName: Dewgong
-  artwork: {fileID: 0}
+  artwork: {fileID: 848931610275287977, guid: 4a6f5794515264c41981847405227809, type: 3}
   pv: 90
   attaque: 70
   defense: 80

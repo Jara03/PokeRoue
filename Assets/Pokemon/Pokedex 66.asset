@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 66
   m_EditorClassIdentifier: 
   unitName: Machop
-  artwork: {fileID: 0}
+  artwork: {fileID: 7449928741504527702, guid: 5c7480fea861f00429024e8371844025, type: 3}
   pv: 70
   attaque: 80
   defense: 50

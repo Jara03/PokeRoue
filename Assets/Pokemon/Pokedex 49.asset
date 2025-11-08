@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 49
   m_EditorClassIdentifier: 
   unitName: Venomoth
-  artwork: {fileID: 0}
+  artwork: {fileID: 5352832239950825060, guid: 82d2ccdd629fbe44d961b19d41a46871, type: 3}
   pv: 70
   attaque: 65
   defense: 60

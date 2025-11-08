@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 16
   m_EditorClassIdentifier: 
   unitName: Pidgey
-  artwork: {fileID: 0}
+  artwork: {fileID: -8379916028316450875, guid: d438913991ba2cb4997e3b84f27ec9c2, type: 3}
   pv: 40
   attaque: 45
   defense: 40

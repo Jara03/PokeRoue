@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 115
   m_EditorClassIdentifier: 
   unitName: Kangaskhan
-  artwork: {fileID: 0}
+  artwork: {fileID: 5398359413522120845, guid: b94aff5b9bad03745bc58012644f08fd, type: 3}
   pv: 105
   attaque: 95
   defense: 80

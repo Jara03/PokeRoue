@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 150
   m_EditorClassIdentifier: 
   unitName: Mewtwo
-  artwork: {fileID: 0}
+  artwork: {fileID: 9191594780927761510, guid: 8646812e2ab94f440902de672a23f912, type: 3}
   pv: 106
   attaque: 110
   defense: 90

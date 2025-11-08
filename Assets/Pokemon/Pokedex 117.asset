@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 117
   m_EditorClassIdentifier: 
   unitName: Seadra
-  artwork: {fileID: 0}
+  artwork: {fileID: -1019498238144542467, guid: 07d9d6469620bd943bae93a718369a87, type: 3}
   pv: 55
   attaque: 65
   defense: 95

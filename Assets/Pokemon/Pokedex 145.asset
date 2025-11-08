@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 145
   m_EditorClassIdentifier: 
   unitName: Zapdos
-  artwork: {fileID: 0}
+  artwork: {fileID: -740123623141317891, guid: e90e6c50f122a8041ba89dd0c55c7eda, type: 3}
   pv: 90
   attaque: 90
   defense: 85

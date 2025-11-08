@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 32
   m_EditorClassIdentifier: 
   unitName: Paldean Tauros Aqua
-  artwork: {fileID: 0}
+  artwork: {fileID: -7612805387818164974, guid: c322609a36cdd9a44ac9c578f1a3f5db, type: 3}
   pv: 75
   attaque: 110
   defense: 105

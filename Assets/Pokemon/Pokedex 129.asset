@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 129
   m_EditorClassIdentifier: 
   unitName: Magikarp
-  artwork: {fileID: 0}
+  artwork: {fileID: 6508492218001988906, guid: 4c579d50dbd4af24c9b106599c053d5a, type: 3}
   pv: 20
   attaque: 10
   defense: 55

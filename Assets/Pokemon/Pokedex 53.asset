@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 53
   m_EditorClassIdentifier: 
   unitName: Persian
-  artwork: {fileID: 0}
+  artwork: {fileID: 8987765715209532733, guid: 70c9d9476deda5542bf0d05d3df35d17, type: 3}
   pv: 65
   attaque: 70
   defense: 60

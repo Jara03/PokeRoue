@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 55
   m_EditorClassIdentifier: 
   unitName: Golduck
-  artwork: {fileID: 0}
+  artwork: {fileID: -7132531662848390417, guid: ee39577b1579e1a4c85d25f665d0f96e, type: 3}
   pv: 80
   attaque: 82
   defense: 78

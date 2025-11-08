@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 76
   m_EditorClassIdentifier: 
   unitName: Golem
-  artwork: {fileID: 0}
+  artwork: {fileID: 5762756798749892020, guid: 78537cbcceaf5684d8ab6eb0190f441f, type: 3}
   pv: 80
   attaque: 120
   defense: 130

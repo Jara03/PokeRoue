@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 33
   m_EditorClassIdentifier: 
   unitName: Nidorino
-  artwork: {fileID: 0}
+  artwork: {fileID: -184248753352703656, guid: 80e626bcd96ba9a459fd5574ae5ad054, type: 3}
   pv: 61
   attaque: 72
   defense: 57

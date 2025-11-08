@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 56
   m_EditorClassIdentifier: 
   unitName: Mankey
-  artwork: {fileID: 0}
+  artwork: {fileID: 4151670644331726691, guid: 64ab92cca935a184aa4902480d026040, type: 3}
   pv: 40
   attaque: 80
   defense: 35

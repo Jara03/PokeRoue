@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 2
   m_EditorClassIdentifier: 
   unitName: Alolan Raichu
-  artwork: {fileID: 0}
+  artwork: {fileID: 6002028471560677436, guid: e7c2cea186cd81b41abccb0732a5f3b0, type: 3}
   pv: 60
   attaque: 85
   defense: 50

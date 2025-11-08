@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 17
   m_EditorClassIdentifier: 
   unitName: Galarian Ponyta
-  artwork: {fileID: 0}
+  artwork: {fileID: -3542404094158068777, guid: f4c9b855bbda02742960ab86f7e62e5f, type: 3}
   pv: 50
   attaque: 85
   defense: 55

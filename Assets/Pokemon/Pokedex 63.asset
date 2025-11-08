@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 63
   m_EditorClassIdentifier: 
   unitName: Abra
-  artwork: {fileID: 0}
+  artwork: {fileID: -5051317914098485158, guid: 10f1160d9806c274087c0f4e65374b33, type: 3}
   pv: 25
   attaque: 20
   defense: 15

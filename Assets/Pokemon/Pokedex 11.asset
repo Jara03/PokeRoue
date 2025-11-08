@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 11
   m_EditorClassIdentifier: 
   unitName: Metapod
-  artwork: {fileID: 0}
+  artwork: {fileID: 1893739186913008913, guid: a5d644c2cdee7404f815623894bb907a, type: 3}
   pv: 50
   attaque: 20
   defense: 55

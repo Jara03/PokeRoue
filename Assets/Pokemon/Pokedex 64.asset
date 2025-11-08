@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 64
   m_EditorClassIdentifier: 
   unitName: Kadabra
-  artwork: {fileID: 0}
+  artwork: {fileID: 1853014766794042669, guid: cbecbe15a87079849aa51f056b1c2999, type: 3}
   pv: 40
   attaque: 35
   defense: 30

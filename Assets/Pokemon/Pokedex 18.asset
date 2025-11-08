@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 18
   m_EditorClassIdentifier: 
   unitName: Pidgeot
-  artwork: {fileID: 0}
+  artwork: {fileID: -1342941690734038477, guid: 353b85748681c7447bd0f9d077728288, type: 3}
   pv: 83
   attaque: 80
   defense: 75

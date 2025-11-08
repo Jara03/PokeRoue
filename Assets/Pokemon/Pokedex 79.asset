@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 79
   m_EditorClassIdentifier: 
   unitName: Slowpoke
-  artwork: {fileID: 0}
+  artwork: {fileID: -8727038895492214086, guid: 747d1752aa5a8eb46bf9e33d359bc080, type: 3}
   pv: 90
   attaque: 65
   defense: 65

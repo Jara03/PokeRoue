@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 84
   m_EditorClassIdentifier: 
   unitName: Doduo
-  artwork: {fileID: 0}
+  artwork: {fileID: -9085695990573415919, guid: dc5e9e31995182842afd85c3ad707310, type: 3}
   pv: 35
   attaque: 85
   defense: 45

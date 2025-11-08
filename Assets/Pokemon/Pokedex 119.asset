@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 119
   m_EditorClassIdentifier: 
   unitName: Seaking
-  artwork: {fileID: 0}
+  artwork: {fileID: -327531367675715020, guid: 45eec345e7b740644bb7c55eb11bcc9a, type: 3}
   pv: 80
   attaque: 92
   defense: 65

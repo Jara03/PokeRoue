@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 73
   m_EditorClassIdentifier: 
   unitName: Tentacruel
-  artwork: {fileID: 0}
+  artwork: {fileID: 355991987180466340, guid: 10fbe7344e3fd364aa234458e957f3c3, type: 3}
   pv: 80
   attaque: 70
   defense: 65

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 39
   m_EditorClassIdentifier: 
   unitName: Jigglypuff
-  artwork: {fileID: 0}
+  artwork: {fileID: -6169587615343202657, guid: 0cbf3425018ac0c498624bbec27cedf5, type: 3}
   pv: 115
   attaque: 45
   defense: 20

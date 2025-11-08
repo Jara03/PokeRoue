@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 6
   m_EditorClassIdentifier: 
   unitName: Alolan Ninetales
-  artwork: {fileID: 0}
+  artwork: {fileID: 2642186717146411396, guid: 3d9ef7d16457bbf4fbf050c9c2a7f708, type: 3}
   pv: 73
   attaque: 67
   defense: 75

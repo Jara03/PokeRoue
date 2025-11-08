@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 32
   m_EditorClassIdentifier: 
   unitName: Nidoran M
-  artwork: {fileID: 0}
+  artwork: {fileID: -6136614619519987570, guid: 2a454d492c6fabc409c27ec9c030236a, type: 3}
   pv: 46
   attaque: 57
   defense: 40

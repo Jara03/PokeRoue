@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 30
   m_EditorClassIdentifier: 
   unitName: Paldean Tauros Combat
-  artwork: {fileID: 0}
+  artwork: {fileID: 6260389464076418516, guid: bae827d4c1ef3954bbf81850811b708a, type: 3}
   pv: 75
   attaque: 110
   defense: 105

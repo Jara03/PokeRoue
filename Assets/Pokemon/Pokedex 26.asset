@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 26
   m_EditorClassIdentifier: 
   unitName: Raichu
-  artwork: {fileID: 0}
+  artwork: {fileID: 6766960932118762965, guid: 51ced18c9dd71ce49a98649a395c75a8, type: 3}
   pv: 60
   attaque: 90
   defense: 55

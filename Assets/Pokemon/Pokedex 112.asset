@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 112
   m_EditorClassIdentifier: 
   unitName: Rhydon
-  artwork: {fileID: 0}
+  artwork: {fileID: 4709044249894612005, guid: a447c83c21119dc48a4ba229d91c9d98, type: 3}
   pv: 105
   attaque: 130
   defense: 120

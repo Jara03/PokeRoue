@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 58
   m_EditorClassIdentifier: 
   unitName: Growlith
-  artwork: {fileID: 0}
+  artwork: {fileID: 8390881820728695696, guid: bb4cb71f37ad5624d83326b8b9432f34, type: 3}
   pv: 55
   attaque: 70
   defense: 45

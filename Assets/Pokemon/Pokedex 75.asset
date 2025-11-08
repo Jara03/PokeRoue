@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 75
   m_EditorClassIdentifier: 
   unitName: Graveler
-  artwork: {fileID: 0}
+  artwork: {fileID: 8535871104385058476, guid: 45abb389a4a0d8444be9c7b05941b4c0, type: 3}
   pv: 55
   attaque: 95
   defense: 115

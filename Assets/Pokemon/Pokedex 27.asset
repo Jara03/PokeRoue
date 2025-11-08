@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 27
   m_EditorClassIdentifier: 
   unitName: Sandshrew
-  artwork: {fileID: 0}
+  artwork: {fileID: 4498044702549397493, guid: 0706a80e06428d8439901849be6301d2, type: 3}
   pv: 50
   attaque: 75
   defense: 85

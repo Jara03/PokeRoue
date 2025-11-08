@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 123
   m_EditorClassIdentifier: 
   unitName: Scyther
-  artwork: {fileID: 0}
+  artwork: {fileID: -549360347654335148, guid: 3445fe5a363ce484baba5de9f444ff71, type: 3}
   pv: 70
   attaque: 110
   defense: 80

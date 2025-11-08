@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 114
   m_EditorClassIdentifier: 
   unitName: Tangela
-  artwork: {fileID: 0}
+  artwork: {fileID: 4776629885624434899, guid: 0418330c74d43d34fba6f76e06826c25, type: 3}
   pv: 65
   attaque: 55
   defense: 115

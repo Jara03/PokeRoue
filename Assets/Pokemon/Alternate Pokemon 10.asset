@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 10
   m_EditorClassIdentifier: 
   unitName: Galar Meowth
-  artwork: {fileID: 0}
+  artwork: {fileID: 685369113015005711, guid: 3888768bb7b6b4f418c2598ea562bb56, type: 3}
   pv: 50
   attaque: 65
   defense: 55

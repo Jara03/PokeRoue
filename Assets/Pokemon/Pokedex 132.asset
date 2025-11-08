@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 132
   m_EditorClassIdentifier: 
   unitName: Ditto
-  artwork: {fileID: 0}
+  artwork: {fileID: -1323014338565606331, guid: f0700fbb5fa7dd4419511ab5e1ceb19b, type: 3}
   pv: 48
   attaque: 48
   defense: 48

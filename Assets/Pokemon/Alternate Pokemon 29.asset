@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 29
   m_EditorClassIdentifier: 
   unitName: Galarian Mr. Mime
-  artwork: {fileID: 0}
+  artwork: {fileID: -3124628781405131776, guid: b876bc8aae966e544b9494aa60535b16, type: 3}
   pv: 50
   attaque: 65
   defense: 65

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 151
   m_EditorClassIdentifier: 
   unitName: Mew
-  artwork: {fileID: 0}
+  artwork: {fileID: -8938678510130746885, guid: 2fcbb6ad86a87904a81c5c3a8ef6c121, type: 3}
   pv: 100
   attaque: 100
   defense: 100

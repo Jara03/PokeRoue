@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 36
   m_EditorClassIdentifier: 
   unitName: Clefable
-  artwork: {fileID: 0}
+  artwork: {fileID: -3659904036725832491, guid: 9731e10fa72625f45b279bf1c4d0867a, type: 3}
   pv: 95
   attaque: 70
   defense: 73

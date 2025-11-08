@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 93
   m_EditorClassIdentifier: 
   unitName: Haunter
-  artwork: {fileID: 0}
+  artwork: {fileID: -8892381097394912046, guid: ef97869ee22307f4fa5899649f7e66bc, type: 3}
   pv: 45
   attaque: 50
   defense: 45

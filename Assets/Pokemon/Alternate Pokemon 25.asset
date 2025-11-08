@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 25
   m_EditorClassIdentifier: 
   unitName: Hisuian Electrode
-  artwork: {fileID: 0}
+  artwork: {fileID: 409091703500813724, guid: b9e812bd7f7ae7047b67256be823f8d4, type: 3}
   pv: 60
   attaque: 50
   defense: 70

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 67
   m_EditorClassIdentifier: 
   unitName: Machoke
-  artwork: {fileID: 0}
+  artwork: {fileID: -4080224888454411959, guid: 9826efc03ec146b419f60e7b40094492, type: 3}
   pv: 80
   attaque: 100
   defense: 70

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 26
   m_EditorClassIdentifier: 
   unitName: Alolan Exeggutor
-  artwork: {fileID: 0}
+  artwork: {fileID: 9054699761440886099, guid: 40a840caf36bc86468bf0eadd31f5702, type: 3}
   pv: 95
   attaque: 105
   defense: 85

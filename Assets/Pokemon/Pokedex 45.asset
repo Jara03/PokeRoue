@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 45
   m_EditorClassIdentifier: 
   unitName: Vileplume
-  artwork: {fileID: 0}
+  artwork: {fileID: -4790349729843119645, guid: f0ef4b565f319f14082c71902f362630, type: 3}
   pv: 75
   attaque: 80
   defense: 85

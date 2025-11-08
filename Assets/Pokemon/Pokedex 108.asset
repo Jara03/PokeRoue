@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 108
   m_EditorClassIdentifier: 
   unitName: Lickitung
-  artwork: {fileID: 0}
+  artwork: {fileID: 7714877566503125175, guid: 5dc62b53a3473b94bb423c1499570b29, type: 3}
   pv: 90
   attaque: 55
   defense: 75

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 54
   m_EditorClassIdentifier: 
   unitName: Psyduck
-  artwork: {fileID: 0}
+  artwork: {fileID: 8227212235185885021, guid: 48e12a2932f8bec419e3a5a0cf0e7029, type: 3}
   pv: 50
   attaque: 52
   defense: 48

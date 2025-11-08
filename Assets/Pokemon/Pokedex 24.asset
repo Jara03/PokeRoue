@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 24
   m_EditorClassIdentifier: 
   unitName: Arbok
-  artwork: {fileID: 0}
+  artwork: {fileID: -7943434437002597620, guid: 2afd22c53e7d67f419b17d93aef636a9, type: 3}
   pv: 60
   attaque: 95
   defense: 69

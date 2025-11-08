@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 37
   m_EditorClassIdentifier: 
   unitName: Vulpix
-  artwork: {fileID: 0}
+  artwork: {fileID: -4886409419782309465, guid: 96043b2b836b7274285e1ee4e574bf2b, type: 3}
   pv: 38
   attaque: 41
   defense: 40

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 23
   m_EditorClassIdentifier: 
   unitName: Alolan Muk
-  artwork: {fileID: 0}
+  artwork: {fileID: -8988355759217688070, guid: c8ac8205d85cc2144baa73367c9a440a, type: 3}
   pv: 105
   attaque: 105
   defense: 75

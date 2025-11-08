@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 12
   m_EditorClassIdentifier: 
   unitName: Butterfree
-  artwork: {fileID: 0}
+  artwork: {fileID: -8301170383225819015, guid: b82431be85478b94da38de97ca2aeadb, type: 3}
   pv: 60
   attaque: 45
   defense: 50

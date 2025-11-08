@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 13
   m_EditorClassIdentifier: 
   unitName: Weedle
-  artwork: {fileID: 0}
+  artwork: {fileID: 4965720488631480890, guid: abde743035b6bec478c03f730755374c, type: 3}
   pv: 40
   attaque: 35
   defense: 30

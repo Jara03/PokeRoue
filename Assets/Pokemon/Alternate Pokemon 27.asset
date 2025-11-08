@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 27
   m_EditorClassIdentifier: 
   unitName: Alolan Marowak
-  artwork: {fileID: 0}
+  artwork: {fileID: 4550022536440444133, guid: 5d6e32aec03a8854f94e2ecb185608f8, type: 3}
   pv: 60
   attaque: 80
   defense: 110

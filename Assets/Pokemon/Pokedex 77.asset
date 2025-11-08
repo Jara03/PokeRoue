@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 77
   m_EditorClassIdentifier: 
   unitName: Ponyta
-  artwork: {fileID: 0}
+  artwork: {fileID: 5840759569923315161, guid: 1e77be8917e27344e99ccce49ba25f17, type: 3}
   pv: 50
   attaque: 85
   defense: 55

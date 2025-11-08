@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 78
   m_EditorClassIdentifier: 
   unitName: Rapidash
-  artwork: {fileID: 0}
+  artwork: {fileID: -2762565312093317447, guid: 411732d385f17dd47939e27c2ad52fb8, type: 3}
   pv: 65
   attaque: 100
   defense: 70

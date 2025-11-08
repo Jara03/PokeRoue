@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 50
   m_EditorClassIdentifier: 
   unitName: Diglett
-  artwork: {fileID: 0}
+  artwork: {fileID: 4716036732041906462, guid: c2639740906e2314f8b9344b500f4890, type: 3}
   pv: 10
   attaque: 55
   defense: 25

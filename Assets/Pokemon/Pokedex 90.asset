@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 90
   m_EditorClassIdentifier: 
   unitName: Shellder
-  artwork: {fileID: 0}
+  artwork: {fileID: 2877330025188208250, guid: 89e2011710477a74b9c578dc596fbf65, type: 3}
   pv: 30
   attaque: 65
   defense: 100

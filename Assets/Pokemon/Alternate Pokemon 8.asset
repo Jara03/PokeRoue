@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 8
   m_EditorClassIdentifier: 
   unitName: Alolan Dugtrio
-  artwork: {fileID: 0}
+  artwork: {fileID: 7359609271296804049, guid: 4159104b79adfe849a7a5b5e507d6dcc, type: 3}
   pv: 35
   attaque: 100
   defense: 60

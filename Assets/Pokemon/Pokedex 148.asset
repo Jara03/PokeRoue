@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 148
   m_EditorClassIdentifier: 
   unitName: Dragonair
-  artwork: {fileID: 0}
+  artwork: {fileID: -4427213257536861266, guid: dec21186f10cac24bb18fa0ab80229aa, type: 3}
   pv: 61
   attaque: 84
   defense: 65

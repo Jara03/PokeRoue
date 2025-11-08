@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon
   m_EditorClassIdentifier: 
   unitName: 'Alolan Rattata '
-  artwork: {fileID: 0}
+  artwork: {fileID: -6829442591926574274, guid: a2c8b8c5b55e53f4e9ebe4290e615246, type: 3}
   pv: 30
   attaque: 56
   defense: 35

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 138
   m_EditorClassIdentifier: 
   unitName: Omanyte
-  artwork: {fileID: 0}
+  artwork: {fileID: -5664515893357978547, guid: b13a46f6cef8f3c4ab4ed2fc506f4367, type: 3}
   pv: 35
   attaque: 40
   defense: 100

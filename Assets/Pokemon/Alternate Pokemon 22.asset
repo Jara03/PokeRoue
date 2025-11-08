@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 22
   m_EditorClassIdentifier: 
   unitName: Alolan Grimer
-  artwork: {fileID: 0}
+  artwork: {fileID: -239562338451128752, guid: d6e56450a51c44e489e21e9fa70f5bf3, type: 3}
   pv: 80
   attaque: 80
   defense: 50

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 72
   m_EditorClassIdentifier: 
   unitName: Tentacool
-  artwork: {fileID: 0}
+  artwork: {fileID: -8320649731761433042, guid: 1fbcd9ed23a69e84e9a252075c635def, type: 3}
   pv: 40
   attaque: 40
   defense: 35

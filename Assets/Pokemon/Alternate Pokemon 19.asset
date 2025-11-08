@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 19
   m_EditorClassIdentifier: 
   unitName: Galarian Slowpoke
-  artwork: {fileID: 0}
+  artwork: {fileID: -180845127744989126, guid: 8223fba504054484a9a16825c41dd174, type: 3}
   pv: 90
   attaque: 65
   defense: 65

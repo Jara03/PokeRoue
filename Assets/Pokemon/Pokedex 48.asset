@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 48
   m_EditorClassIdentifier: 
   unitName: Venonat
-  artwork: {fileID: 0}
+  artwork: {fileID: -2617368939079480641, guid: edfce9257a7e70049b6a47426dcac39d, type: 3}
   pv: 60
   attaque: 55
   defense: 50

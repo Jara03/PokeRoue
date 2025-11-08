@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 68
   m_EditorClassIdentifier: 
   unitName: Machamp
-  artwork: {fileID: 0}
+  artwork: {fileID: 747662785107981831, guid: f6b31229645854c48b28861ec648339d, type: 3}
   pv: 90
   attaque: 130
   defense: 80

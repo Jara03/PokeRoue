@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 18
   m_EditorClassIdentifier: 
   unitName: Galarian Rapidash
-  artwork: {fileID: 0}
+  artwork: {fileID: 8514347638354651946, guid: 8492d630231e29d449abb4c870f5978d, type: 3}
   pv: 65
   attaque: 100
   defense: 70

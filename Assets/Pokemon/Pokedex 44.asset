@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 44
   m_EditorClassIdentifier: 
   unitName: Gloom
-  artwork: {fileID: 0}
+  artwork: {fileID: -1891688749592689338, guid: 323f1cc72033b3d44ba310b0bd4bf2cd, type: 3}
   pv: 60
   attaque: 65
   defense: 70

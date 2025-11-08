@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 85
   m_EditorClassIdentifier: 
   unitName: Dodrio
-  artwork: {fileID: 0}
+  artwork: {fileID: 2694040048846481810, guid: b88becc7eab59044a904ec5011f0ed4d, type: 3}
   pv: 60
   attaque: 110
   defense: 70

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 19
   m_EditorClassIdentifier: 
   unitName: Rattata
-  artwork: {fileID: 0}
+  artwork: {fileID: 5127949493521660819, guid: f6b84cd918eef6448802b5e7ded25bc3, type: 3}
   pv: 30
   attaque: 56
   defense: 35

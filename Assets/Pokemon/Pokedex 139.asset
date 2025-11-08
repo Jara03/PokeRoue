@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 139
   m_EditorClassIdentifier: 
   unitName: Omastar
-  artwork: {fileID: 0}
+  artwork: {fileID: -8456148931073242274, guid: 82b2f7dc432e88f479139e377078aa4c, type: 3}
   pv: 70
   attaque: 60
   defense: 125

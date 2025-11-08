@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 113
   m_EditorClassIdentifier: 
   unitName: Chansey
-  artwork: {fileID: 0}
+  artwork: {fileID: 3674740081369393259, guid: 4743589a3eea5a040a4c6fe2cf891d82, type: 3}
   pv: 250
   attaque: 5
   defense: 5

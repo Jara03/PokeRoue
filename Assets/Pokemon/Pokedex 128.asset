@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 128
   m_EditorClassIdentifier: 
   unitName: Tauros
-  artwork: {fileID: 0}
+  artwork: {fileID: 8190515764986740418, guid: 3127eec4c69538149a83fb90b1db59ac, type: 3}
   pv: 75
   attaque: 100
   defense: 95

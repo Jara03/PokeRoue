@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 134
   m_EditorClassIdentifier: 
   unitName: Vaporeon
-  artwork: {fileID: 0}
+  artwork: {fileID: -436003394101801654, guid: e347c2ad6d54cec45a26d81a89f887c9, type: 3}
   pv: 130
   attaque: 65
   defense: 60

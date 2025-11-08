@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 35
   m_EditorClassIdentifier: 
   unitName: Clefairy
-  artwork: {fileID: 0}
+  artwork: {fileID: 4370492104857749809, guid: 08975c3ff9074c440b8e22c02df325ba, type: 3}
   pv: 70
   attaque: 45
   defense: 48

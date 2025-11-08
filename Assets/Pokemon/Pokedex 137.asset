@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 137
   m_EditorClassIdentifier: 
   unitName: Porygon
-  artwork: {fileID: 0}
+  artwork: {fileID: -1390668620638152601, guid: c0d7721719ac3f946b10a91c7fda8a24, type: 3}
   pv: 65
   attaque: 60
   defense: 70

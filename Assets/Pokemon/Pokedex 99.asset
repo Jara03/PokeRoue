@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 99
   m_EditorClassIdentifier: 
   unitName: Kingler
-  artwork: {fileID: 0}
+  artwork: {fileID: 5998357816035076083, guid: f0c6c8db72a8a7e469dd2e00265cf5b0, type: 3}
   pv: 55
   attaque: 130
   defense: 115

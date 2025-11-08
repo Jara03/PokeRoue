@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 14
   m_EditorClassIdentifier: 
   unitName: Alolan Geodude
-  artwork: {fileID: 0}
+  artwork: {fileID: 362852782389571913, guid: 32ad277324a2fd741809e4da394a2b50, type: 3}
   pv: 40
   attaque: 80
   defense: 100

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 62
   m_EditorClassIdentifier: 
   unitName: Poliwrath
-  artwork: {fileID: 0}
+  artwork: {fileID: -655496568351136263, guid: 9c0999e507d6bc546a2c8a540d24fd69, type: 3}
   pv: 90
   attaque: 95
   defense: 95

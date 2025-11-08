@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 20
   m_EditorClassIdentifier: 
   unitName: Raticate
-  artwork: {fileID: 0}
+  artwork: {fileID: -5247857531435582653, guid: fd5e2e33068497944873254cc40905fd, type: 3}
   pv: 55
   attaque: 81
   defense: 60

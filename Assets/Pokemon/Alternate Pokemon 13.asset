@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 13
   m_EditorClassIdentifier: 
   unitName: Hisuian Arcanine
-  artwork: {fileID: 0}
+  artwork: {fileID: 3039508343842478591, guid: 7e4cb2d50cbc05b459e19c690760a97e, type: 3}
   pv: 95
   attaque: 115
   defense: 80

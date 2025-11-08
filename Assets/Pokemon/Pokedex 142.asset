@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 142
   m_EditorClassIdentifier: 
   unitName: Aerodactyl
-  artwork: {fileID: 0}
+  artwork: {fileID: -74137610798639521, guid: 893b2a5581c87f944aa7ce3c51d91e55, type: 3}
   pv: 80
   attaque: 105
   defense: 65

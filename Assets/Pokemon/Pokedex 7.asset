@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 7
   m_EditorClassIdentifier: 
   unitName: Squirtle
-  artwork: {fileID: 0}
+  artwork: {fileID: -2758826876915548872, guid: a64bc5820fa914b4cbbb1fe6c1f9429d, type: 3}
   pv: 44
   attaque: 48
   defense: 65

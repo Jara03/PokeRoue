@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 91
   m_EditorClassIdentifier: 
   unitName: Cloyster
-  artwork: {fileID: 0}
+  artwork: {fileID: 5675309980138297098, guid: 2c41c40fd887cae46b71d1617b1198ca, type: 3}
   pv: 50
   attaque: 95
   defense: 180

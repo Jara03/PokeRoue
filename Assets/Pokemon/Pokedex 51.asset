@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 51
   m_EditorClassIdentifier: 
   unitName: Dugtrio
-  artwork: {fileID: 0}
+  artwork: {fileID: 6441051966933173889, guid: d7351c307d221f8418178c3bb8b11107, type: 3}
   pv: 35
   attaque: 100
   defense: 50

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 71
   m_EditorClassIdentifier: 
   unitName: Victreebel
-  artwork: {fileID: 0}
+  artwork: {fileID: -367189503064884213, guid: 7c4eec4abe05bbd42a24b3723e689a09, type: 3}
   pv: 80
   attaque: 105
   defense: 65

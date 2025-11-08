@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 43
   m_EditorClassIdentifier: 
   unitName: Oddish
-  artwork: {fileID: 0}
+  artwork: {fileID: 3317455071454522441, guid: 2483ed7d08bb98f43bdc11478a23cf74, type: 3}
   pv: 45
   attaque: 50
   defense: 55

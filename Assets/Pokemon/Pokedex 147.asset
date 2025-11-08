@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 147
   m_EditorClassIdentifier: 
   unitName: Dratini
-  artwork: {fileID: 0}
+  artwork: {fileID: 5405099430292281879, guid: 21769af20fdf9f04dae4733b501c8c08, type: 3}
   pv: 41
   attaque: 64
   defense: 45

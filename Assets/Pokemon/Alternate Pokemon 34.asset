@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 34
   m_EditorClassIdentifier: 
   unitName: Galarian Zapdos
-  artwork: {fileID: 0}
+  artwork: {fileID: -8521093271688589242, guid: 845a68471bce44e44b03a6e5b057787e, type: 3}
   pv: 90
   attaque: 125
   defense: 90

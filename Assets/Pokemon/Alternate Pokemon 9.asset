@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 9
   m_EditorClassIdentifier: 
   unitName: Alolan Meowth
-  artwork: {fileID: 0}
+  artwork: {fileID: 4087488533264952031, guid: c3ac24a13730b9245ab8696874a383ff, type: 3}
   pv: 40
   attaque: 35
   defense: 35

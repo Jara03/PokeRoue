@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 95
   m_EditorClassIdentifier: 
   unitName: Onix
-  artwork: {fileID: 0}
+  artwork: {fileID: -944138800077353080, guid: 6de6e66ad6cc748458395f9d48b8acc4, type: 3}
   pv: 35
   attaque: 45
   defense: 160

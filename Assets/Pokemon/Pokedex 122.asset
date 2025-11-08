@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 122
   m_EditorClassIdentifier: 
   unitName: Mr. Mime
-  artwork: {fileID: 0}
+  artwork: {fileID: 2661240785994687036, guid: 7c08db344a341f741b3e4e4e768034b5, type: 3}
   pv: 40
   attaque: 45
   defense: 65

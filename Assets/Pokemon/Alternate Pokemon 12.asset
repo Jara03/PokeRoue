@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 12
   m_EditorClassIdentifier: 
   unitName: Hisuian Growlithe
-  artwork: {fileID: 0}
+  artwork: {fileID: -367375290432436876, guid: 5b529519ec5109e4387c133907f276bd, type: 3}
   pv: 60
   attaque: 75
   defense: 45

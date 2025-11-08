@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 146
   m_EditorClassIdentifier: 
   unitName: Moltres
-  artwork: {fileID: 0}
+  artwork: {fileID: -8591394932289502876, guid: 551cc958961dad24785a522d8b7a637e, type: 3}
   pv: 90
   attaque: 100
   defense: 90

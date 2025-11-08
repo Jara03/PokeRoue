@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 7
   m_EditorClassIdentifier: 
   unitName: Alolan Diglett
-  artwork: {fileID: 0}
+  artwork: {fileID: 8387655664587367721, guid: 9e9998342a49345489594a59e8c701cc, type: 3}
   pv: 10
   attaque: 55
   defense: 30

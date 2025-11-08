@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 25
   m_EditorClassIdentifier: 
   unitName: Pikachu
-  artwork: {fileID: 0}
+  artwork: {fileID: 2504565756996826968, guid: 3c9168ce847dcb542834f062bd2ff884, type: 3}
   pv: 35
   attaque: 55
   defense: 40

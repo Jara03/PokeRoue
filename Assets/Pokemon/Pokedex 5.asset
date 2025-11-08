@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 5
   m_EditorClassIdentifier: 
   unitName: Charmeleon
-  artwork: {fileID: 0}
+  artwork: {fileID: -2433968502178456383, guid: 153b06f5029e94c45895d1bc07ba8e48, type: 3}
   pv: 58
   attaque: 64
   defense: 58

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 15
   m_EditorClassIdentifier: 
   unitName: Alolan Graveler
-  artwork: {fileID: 0}
+  artwork: {fileID: -6683251879631383311, guid: d6b5467003260cf4c83ba1a3119e100c, type: 3}
   pv: 55
   attaque: 95
   defense: 115

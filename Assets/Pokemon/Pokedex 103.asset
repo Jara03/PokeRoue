@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 103
   m_EditorClassIdentifier: 
   unitName: Exeggcutor
-  artwork: {fileID: 0}
+  artwork: {fileID: 7395879167665424149, guid: b09be6f6b857d0543be5964eedf123f5, type: 3}
   pv: 95
   attaque: 95
   defense: 85

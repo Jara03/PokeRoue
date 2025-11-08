@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 94
   m_EditorClassIdentifier: 
   unitName: Gengar
-  artwork: {fileID: 0}
+  artwork: {fileID: 7004783238487676300, guid: 070ded1da4dbfd5409c492ccbf63b8b4, type: 3}
   pv: 60
   attaque: 65
   defense: 60

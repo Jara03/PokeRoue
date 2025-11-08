@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 144
   m_EditorClassIdentifier: 
   unitName: Articuno
-  artwork: {fileID: 0}
+  artwork: {fileID: -2427735815694391576, guid: 8fc3cc0885c01e84e94e54b2011c02f6, type: 3}
   pv: 90
   attaque: 85
   defense: 100

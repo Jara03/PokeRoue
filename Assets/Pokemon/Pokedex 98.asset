@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 98
   m_EditorClassIdentifier: 
   unitName: Krabby
-  artwork: {fileID: 0}
+  artwork: {fileID: -7008767723887233611, guid: b8bbf9f8269ac1849943a107e3d8ae39, type: 3}
   pv: 30
   attaque: 105
   defense: 90

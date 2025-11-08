@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 40
   m_EditorClassIdentifier: 
   unitName: Wigglytuff
-  artwork: {fileID: 0}
+  artwork: {fileID: -5665322273794374202, guid: 280e5c400d1efe04bb4f7d6005ed16b9, type: 3}
   pv: 140
   attaque: 70
   defense: 45

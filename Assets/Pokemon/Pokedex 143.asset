@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 143
   m_EditorClassIdentifier: 
   unitName: Snorlax
-  artwork: {fileID: 0}
+  artwork: {fileID: 8530257348399252720, guid: b42d8447b8d11d84a9c599d391f8d9aa, type: 3}
   pv: 160
   attaque: 110
   defense: 65

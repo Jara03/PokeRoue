@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 52
   m_EditorClassIdentifier: 
   unitName: Meowth
-  artwork: {fileID: 0}
+  artwork: {fileID: -8558784062938165889, guid: 555da6501165670459aa4db9c2720e08, type: 3}
   pv: 40
   attaque: 45
   defense: 35

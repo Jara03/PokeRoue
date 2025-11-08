@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88142450a0453c94f975ff9141e21f72, type: 3}
   m_Name: Pokedex 149
   m_EditorClassIdentifier: 
-  unitName: "Nom par d\xE9faut"
-  artwork: {fileID: 0}
+  unitName: Dragonite
+  artwork: {fileID: -7814017500988004722, guid: d1b9184a2d132ea4a8bf7c21c7c7f454, type: 3}
   pv: 91
   attaque: 134
   defense: 95

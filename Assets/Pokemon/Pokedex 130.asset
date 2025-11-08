@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 130
   m_EditorClassIdentifier: 
   unitName: Gyarados
-  artwork: {fileID: 0}
+  artwork: {fileID: -4326734034844539494, guid: 31d3ea856d1239f46954c08cf21eef48, type: 3}
   pv: 95
   attaque: 125
   defense: 79

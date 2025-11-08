@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 59
   m_EditorClassIdentifier: 
   unitName: Arcanine
-  artwork: {fileID: 0}
+  artwork: {fileID: -8015652625766995970, guid: 960a0358e6847c14bad75d57b727d713, type: 3}
   pv: 90
   attaque: 110
   defense: 80

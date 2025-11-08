@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 141
   m_EditorClassIdentifier: 
   unitName: Kabutops
-  artwork: {fileID: 0}
+  artwork: {fileID: -3126923770005615721, guid: e0445a9af435316428694ca4aea4cb5f, type: 3}
   pv: 60
   attaque: 115
   defense: 105

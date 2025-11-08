@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 4
   m_EditorClassIdentifier: 
   unitName: Charmander
-  artwork: {fileID: 0}
+  artwork: {fileID: -8870633323981505217, guid: f969ba53083e2bc428885f4910bef007, type: 3}
   pv: 39
   attaque: 52
   defense: 43

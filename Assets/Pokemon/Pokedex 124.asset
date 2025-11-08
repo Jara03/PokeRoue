@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 124
   m_EditorClassIdentifier: 
   unitName: Jynx
-  artwork: {fileID: 0}
+  artwork: {fileID: 5661584274471815874, guid: 7d600fd1991ebe04fa781f8cde3a97dc, type: 3}
   pv: 65
   attaque: 50
   defense: 35

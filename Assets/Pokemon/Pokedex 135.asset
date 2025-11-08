@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 135
   m_EditorClassIdentifier: 
   unitName: Jolteon
-  artwork: {fileID: 0}
+  artwork: {fileID: 801823590286281981, guid: ffdfc30ca8a5a924fb4c7ff1ced20910, type: 3}
   pv: 65
   attaque: 65
   defense: 60

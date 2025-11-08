@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 126
   m_EditorClassIdentifier: 
   unitName: Magmar
-  artwork: {fileID: 0}
+  artwork: {fileID: -3647608650801260823, guid: 18822f28d382ac043bd5c048cbf26524, type: 3}
   pv: 65
   attaque: 95
   defense: 57

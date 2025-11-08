@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 41
   m_EditorClassIdentifier: 
   unitName: Zubat
-  artwork: {fileID: 0}
+  artwork: {fileID: -7849189867617693977, guid: 179a66375547aed4fb61169a7ce52a67, type: 3}
   pv: 40
   attaque: 45
   defense: 35

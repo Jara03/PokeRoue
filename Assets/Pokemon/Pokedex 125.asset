@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 125
   m_EditorClassIdentifier: 
   unitName: Electabuzz
-  artwork: {fileID: 0}
+  artwork: {fileID: -2966069850254467084, guid: b7b21a3fb16f807439cf42450a45bab6, type: 3}
   pv: 65
   attaque: 83
   defense: 57

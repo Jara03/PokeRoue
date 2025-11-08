@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 46
   m_EditorClassIdentifier: 
   unitName: Paras
-  artwork: {fileID: 0}
+  artwork: {fileID: 6027875366606473062, guid: 54f74c3c1bbaac54389d0a7ab8b636ba, type: 3}
   pv: 35
   attaque: 70
   defense: 55

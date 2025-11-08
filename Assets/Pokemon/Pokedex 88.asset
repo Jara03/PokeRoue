@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 88
   m_EditorClassIdentifier: 
   unitName: Grimer
-  artwork: {fileID: 0}
+  artwork: {fileID: 2766431978303870727, guid: 3de2996614d404b4b963f8d80d41d6c2, type: 3}
   pv: 80
   attaque: 80
   defense: 50

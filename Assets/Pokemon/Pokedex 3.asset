@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 3
   m_EditorClassIdentifier: 
   unitName: Venusaur
-  artwork: {fileID: 0}
+  artwork: {fileID: -5375466262524007588, guid: 13c117baaecff7444bb46571321f686c, type: 3}
   pv: 80
   attaque: 82
   defense: 83

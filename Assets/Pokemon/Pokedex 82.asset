@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 82
   m_EditorClassIdentifier: 
   unitName: Magneton
-  artwork: {fileID: 0}
+  artwork: {fileID: -7310240519738844850, guid: 7d7690f04581bec44b28b9cb19a16a71, type: 3}
   pv: 50
   attaque: 60
   defense: 95

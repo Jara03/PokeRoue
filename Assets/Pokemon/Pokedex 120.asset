@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 120
   m_EditorClassIdentifier: 
   unitName: Staryu
-  artwork: {fileID: 0}
+  artwork: {fileID: -760574237344299121, guid: 143eb8efe74d2ef4681e245c2b4b325a, type: 3}
   pv: 30
   attaque: 45
   defense: 55

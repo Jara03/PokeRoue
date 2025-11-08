@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 86
   m_EditorClassIdentifier: 
   unitName: Seel
-  artwork: {fileID: 0}
+  artwork: {fileID: 685298188134267641, guid: ed17b880013f83740b3096415d80f8bc, type: 3}
   pv: 65
   attaque: 45
   defense: 55

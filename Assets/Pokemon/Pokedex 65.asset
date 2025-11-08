@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 65
   m_EditorClassIdentifier: 
   unitName: Alakazam
-  artwork: {fileID: 0}
+  artwork: {fileID: 6082485174692685880, guid: 88f326d67ea0f6343803a4f7048d9e4b, type: 3}
   pv: 55
   attaque: 50
   defense: 45

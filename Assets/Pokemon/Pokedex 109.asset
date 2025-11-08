@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 109
   m_EditorClassIdentifier: 
   unitName: Koffing
-  artwork: {fileID: 0}
+  artwork: {fileID: 8188850254570444182, guid: 983f7dd9805bc7241a77f5a420f01137, type: 3}
   pv: 40
   attaque: 65
   defense: 95

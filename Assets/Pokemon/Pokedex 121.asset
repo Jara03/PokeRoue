@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 121
   m_EditorClassIdentifier: 
   unitName: Starmie
-  artwork: {fileID: 0}
+  artwork: {fileID: 4539731206165188077, guid: f5bb53002d46c1641aab2286a975839b, type: 3}
   pv: 60
   attaque: 75
   defense: 85

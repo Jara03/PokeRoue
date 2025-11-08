@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 33
   m_EditorClassIdentifier: 
   unitName: Galarian Articuno
-  artwork: {fileID: 0}
+  artwork: {fileID: 5637542811888447193, guid: b063290ee206c724d944fdfeaeb0cdcc, type: 3}
   pv: 90
   attaque: 85
   defense: 85

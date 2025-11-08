@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 60
   m_EditorClassIdentifier: 
   unitName: Poliwag
-  artwork: {fileID: 0}
+  artwork: {fileID: -3715452699863284427, guid: 3488bebea47c41d4883355e2f458ce30, type: 3}
   pv: 40
   attaque: 50
   defense: 40

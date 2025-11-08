@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 104
   m_EditorClassIdentifier: 
   unitName: Cubone
-  artwork: {fileID: 0}
+  artwork: {fileID: -6043377806654775644, guid: 3be6d1fd318a7f2438681b85a18557aa, type: 3}
   pv: 50
   attaque: 50
   defense: 95

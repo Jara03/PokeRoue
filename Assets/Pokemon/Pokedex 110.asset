@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 110
   m_EditorClassIdentifier: 
   unitName: Weezing
-  artwork: {fileID: 0}
+  artwork: {fileID: -999536595734643717, guid: 2669294a1234071478a6a7978a00b8bc, type: 3}
   pv: 65
   attaque: 90
   defense: 120

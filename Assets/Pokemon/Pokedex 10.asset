@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 10
   m_EditorClassIdentifier: 
   unitName: Caterpie
-  artwork: {fileID: 0}
+  artwork: {fileID: 6040134801801345677, guid: 52d26dde83dbbb34db79a7db0226857a, type: 3}
   pv: 45
   attaque: 30
   defense: 35

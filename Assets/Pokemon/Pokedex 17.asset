@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 17
   m_EditorClassIdentifier: 
   unitName: Pidgeotto
-  artwork: {fileID: 0}
+  artwork: {fileID: 7588195324794843192, guid: 40c21c9edca008147a8af9e4f3660945, type: 3}
   pv: 63
   attaque: 60
   defense: 55

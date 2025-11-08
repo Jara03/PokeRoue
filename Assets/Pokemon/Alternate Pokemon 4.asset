@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 4
   m_EditorClassIdentifier: 
   unitName: Alolan Sandslash
-  artwork: {fileID: 0}
+  artwork: {fileID: -9160717991497273982, guid: c3fc8a9cb68e64c499320e7a763dbd86, type: 3}
   pv: 75
   attaque: 100
   defense: 120

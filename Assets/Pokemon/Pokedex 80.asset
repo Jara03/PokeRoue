@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 80
   m_EditorClassIdentifier: 
   unitName: Slowbro
-  artwork: {fileID: 0}
+  artwork: {fileID: 886816817867799225, guid: c203ec9042b6cf04c9545eb7807e6a88, type: 3}
   pv: 95
   attaque: 75
   defense: 110

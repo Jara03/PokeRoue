@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 31
   m_EditorClassIdentifier: 
   unitName: Nidoqueen
-  artwork: {fileID: 0}
+  artwork: {fileID: 1584206531979856927, guid: ba87f5999370b1645921f7777b06de31, type: 3}
   pv: 90
   attaque: 92
   defense: 87

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 127
   m_EditorClassIdentifier: 
   unitName: Pinsir
-  artwork: {fileID: 0}
+  artwork: {fileID: -988738593632849797, guid: 4bf1ddf3c0e336e409b6837144247c24, type: 3}
   pv: 65
   attaque: 125
   defense: 100

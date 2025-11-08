@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 57
   m_EditorClassIdentifier: 
   unitName: Primeape
-  artwork: {fileID: 0}
+  artwork: {fileID: 9034377231374572230, guid: dd8b0f76fede7d945a318fd0822c675a, type: 3}
   pv: 65
   attaque: 105
   defense: 60

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 11
   m_EditorClassIdentifier: 
   unitName: Alolan Persian
-  artwork: {fileID: 0}
+  artwork: {fileID: -7252095023880909161, guid: 9b97d44fe81840c40b9ce686526b5877, type: 3}
   pv: 65
   attaque: 60
   defense: 60

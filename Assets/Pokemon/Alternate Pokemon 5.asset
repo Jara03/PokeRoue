@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 5
   m_EditorClassIdentifier: 
   unitName: Alolan Vulpix
-  artwork: {fileID: 0}
+  artwork: {fileID: 4629032331659300925, guid: 3aa691459ee84d54599719ff8142226b, type: 3}
   pv: 38
   attaque: 41
   defense: 40

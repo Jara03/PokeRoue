@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 21
   m_EditorClassIdentifier: 
   unitName: Galarian Farfetch'd
-  artwork: {fileID: 0}
+  artwork: {fileID: -3460511314344567301, guid: 6bc53d07b96084d4692fc782e10999ee, type: 3}
   pv: 52
   attaque: 95
   defense: 55

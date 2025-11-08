@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 102
   m_EditorClassIdentifier: 
   unitName: Exeggcute
-  artwork: {fileID: 0}
+  artwork: {fileID: -6850818381169986174, guid: 6e9a8326fd55847499fab7b22227fef1, type: 3}
   pv: 60
   attaque: 40
   defense: 80

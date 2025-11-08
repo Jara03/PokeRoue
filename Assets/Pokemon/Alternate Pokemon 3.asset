@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 3
   m_EditorClassIdentifier: 
   unitName: Alolan Sandshrew
-  artwork: {fileID: 0}
+  artwork: {fileID: 6754628133789155705, guid: 7189ca64fa382f9438415cc7a93cfc0e, type: 3}
   pv: 50
   attaque: 75
   defense: 90

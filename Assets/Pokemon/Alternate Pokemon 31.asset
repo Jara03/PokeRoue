@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 31
   m_EditorClassIdentifier: 
   unitName: Paldean Tauros Blaze
-  artwork: {fileID: 0}
+  artwork: {fileID: 611749295487570769, guid: 3937f035efc896f4b9fd59c4db295b68, type: 3}
   pv: 75
   attaque: 110
   defense: 105

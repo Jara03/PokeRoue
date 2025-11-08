@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 16
   m_EditorClassIdentifier: 
   unitName: Alolan Golem
-  artwork: {fileID: 0}
+  artwork: {fileID: 8367517725686032524, guid: 8ecd65194c4ad154e868d856da1a5271, type: 3}
   pv: 80
   attaque: 120
   defense: 130

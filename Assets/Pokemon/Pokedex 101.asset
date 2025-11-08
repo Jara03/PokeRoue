@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 101
   m_EditorClassIdentifier: 
   unitName: Electrode
-  artwork: {fileID: 0}
+  artwork: {fileID: 7822475999682179260, guid: c4a7e0d8cdab44249a22d101a5afbac0, type: 3}
   pv: 60
   attaque: 50
   defense: 70

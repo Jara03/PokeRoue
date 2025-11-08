@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Alternate Pokemon 35
   m_EditorClassIdentifier: 
   unitName: Galarian Moltres
-  artwork: {fileID: 0}
+  artwork: {fileID: 3994049190031671848, guid: 1266b82ec39690748b7dc2d6b80ea4f3, type: 3}
   pv: 90
   attaque: 85
   defense: 90

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 106
   m_EditorClassIdentifier: 
   unitName: Hitmonlee
-  artwork: {fileID: 0}
+  artwork: {fileID: 3226151399604583812, guid: c96b50adcaaafc64585192913e06dae3, type: 3}
   pv: 50
   attaque: 120
   defense: 53

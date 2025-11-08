@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 97
   m_EditorClassIdentifier: 
   unitName: Hypno
-  artwork: {fileID: 0}
+  artwork: {fileID: 2576595578885185598, guid: 8d8b460c0d83d134f8e14dc9727f2b2f, type: 3}
   pv: 85
   attaque: 73
   defense: 70

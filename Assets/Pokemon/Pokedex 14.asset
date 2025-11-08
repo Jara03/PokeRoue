@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 14
   m_EditorClassIdentifier: 
   unitName: Kakuna
-  artwork: {fileID: 0}
+  artwork: {fileID: 285564053356395661, guid: 9b6c44f188eeea447a658812beabc8d2, type: 3}
   pv: 45
   attaque: 25
   defense: 50

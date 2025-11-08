@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 96
   m_EditorClassIdentifier: 
   unitName: Drowzee
-  artwork: {fileID: 0}
+  artwork: {fileID: 8369687089393108169, guid: 3c93dd6b59a3440458de8281fbdf4cfe, type: 3}
   pv: 60
   attaque: 48
   defense: 45

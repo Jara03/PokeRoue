@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 83
   m_EditorClassIdentifier: 
   unitName: Farfetch'd
-  artwork: {fileID: 0}
+  artwork: {fileID: 7373280508345220463, guid: 2e0f5d887373c1a4a8e9bdcf01b6674d, type: 3}
   pv: 52
   attaque: 90
   defense: 55

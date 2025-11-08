@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 38
   m_EditorClassIdentifier: 
   unitName: Ninetales
-  artwork: {fileID: 0}
+  artwork: {fileID: 1020907551966440943, guid: 00fb880e8214d5c408feba1d4ad74b30, type: 3}
   pv: 73
   attaque: 76
   defense: 75

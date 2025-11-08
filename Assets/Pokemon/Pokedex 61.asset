@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 61
   m_EditorClassIdentifier: 
   unitName: Poliwhirl
-  artwork: {fileID: 0}
+  artwork: {fileID: 6717405725756061245, guid: bf6f05ee86645cf4fa4a84750d37a695, type: 3}
   pv: 65
   attaque: 65
   defense: 65

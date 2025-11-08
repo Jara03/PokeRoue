@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 21
   m_EditorClassIdentifier: 
   unitName: Spearow
-  artwork: {fileID: 0}
+  artwork: {fileID: -4870411660320731814, guid: 4c3e96a62d0b47f478d0522879c86d2a, type: 3}
   pv: 40
   attaque: 60
   defense: 30

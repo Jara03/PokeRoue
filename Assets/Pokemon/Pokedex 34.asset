@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 34
   m_EditorClassIdentifier: 
   unitName: Nidoking
-  artwork: {fileID: 0}
+  artwork: {fileID: 2777166287523416289, guid: e071bb5c1ed8ce24fb93a1c5d0f1494f, type: 3}
   pv: 81
   attaque: 102
   defense: 77

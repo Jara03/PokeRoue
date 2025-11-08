@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 92
   m_EditorClassIdentifier: 
   unitName: Gastly
-  artwork: {fileID: 0}
+  artwork: {fileID: 3406527400554348743, guid: 40a92c870e804c242987a5b25692a965, type: 3}
   pv: 30
   attaque: 35
   defense: 30

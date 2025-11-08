@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 100
   m_EditorClassIdentifier: 
   unitName: Voltorb
-  artwork: {fileID: 0}
+  artwork: {fileID: -858663183945119744, guid: 0032e8279d467f143bc306311f8aefc8, type: 3}
   pv: 40
   attaque: 30
   defense: 50

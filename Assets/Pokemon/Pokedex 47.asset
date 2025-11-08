@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Pokedex 47
   m_EditorClassIdentifier: 
   unitName: Parasect
-  artwork: {fileID: 0}
+  artwork: {fileID: 6225756881559701519, guid: ca92e532b2c91694584c90e4f218bdc4, type: 3}
   pv: 60
   attaque: 95
   defense: 80
