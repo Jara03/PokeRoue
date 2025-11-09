@@ -32,6 +32,7 @@ public class PokemonBuilder : MonoBehaviour
     
     //le tuple nature produit un buff et un débuff de chaque coté du Tuple
     private string nature = null ;
+    private string accelerator = null;
     private void Start()
     {
         selectPokeBall();
@@ -211,10 +212,17 @@ public class PokemonBuilder : MonoBehaviour
         spinWheelManager.OnSegmentSelected -= OnArenaSelected;
         arena = (Arena)Enum.Parse(typeof(Arena),segment.label);
         Debug.Log($"✅ Arene choisie : {segment.label}");
-        CreateClone(); // continue
+        selectAccelerateur(); // continue
 
     }
-    
+
+    public void selectAccelerateur()
+    {
+        Debug.Log("Selection de l'accelerateur : ");
+        spinWheelManager.OnSegmentSelected += OnAccelerateurSelected;
+        wheel.LoadSegments(getAccelerateurList());
+    }
+
     private void CreateClone()
     {
         // ici, le code de création du nouveau PokeUnit
@@ -234,8 +242,9 @@ public class PokemonBuilder : MonoBehaviour
         newUnit.attaqueSpeciale = baseUnit.attaqueSpeciale;
         newUnit.defenseSpeciale = baseUnit.defenseSpeciale;
         newUnit.vitesse = baseUnit.vitesse;
-        
+
         setNature(newUnit);
+        ApplyAccelerator(newUnit);
 
         string assetPath = $"Assets/Resources/{outputFolder}/{newUnit.unitName}.asset";
 
@@ -249,6 +258,69 @@ public class PokemonBuilder : MonoBehaviour
         #endif
 
         createdCount++;
+    }
+
+    private void OnAccelerateurSelected(WheelSegment segment)
+    {
+        spinWheelManager.OnSegmentSelected -= OnAccelerateurSelected;
+        accelerator = segment.label;
+        Debug.Log($"✅ Accélérateur choisi : {segment.label}");
+        CreateClone();
+    }
+
+    public WheelSegment[] getAccelerateurList()
+    {
+        List<WheelSegment> segments = new List<WheelSegment>
+        {
+            new WheelSegment { label = "attaque", dropRate = 0.05f, color = Random.ColorHSV() },
+            new WheelSegment { label = "défense", dropRate = 0.05f, color = Random.ColorHSV() },
+            new WheelSegment { label = "None1", dropRate = 0.10f, color = Random.ColorHSV() },
+            new WheelSegment { label = "attaqueSpeciale", dropRate = 0.05f, color = Random.ColorHSV() },
+            new WheelSegment { label = "défenseSpeciale", dropRate = 0.05f, color = Random.ColorHSV() },
+            new WheelSegment { label = "None2", dropRate = 0.10f, color = Random.ColorHSV() },
+            new WheelSegment { label = "vitesse", dropRate = 0.0005f, color = Random.ColorHSV() },
+            new WheelSegment { label = "pv", dropRate = 0.0005f, color = Random.ColorHSV() },
+            new WheelSegment { label = "None3", dropRate = 0.10f, color = Random.ColorHSV() }
+        };
+
+        return segments.ToArray();
+    }
+
+    private void ApplyAccelerator(PokeUnit newUnit)
+    {
+        if (string.IsNullOrEmpty(accelerator) || accelerator.StartsWith("None"))
+        {
+            return;
+        }
+
+        int bonus;
+        switch (accelerator)
+        {
+            case "attaque":
+                bonus = Mathf.RoundToInt(newUnit.attaque * 0.1f);
+                newUnit.attaque += bonus;
+                break;
+            case "défense":
+                bonus = Mathf.RoundToInt(newUnit.defense * 0.1f);
+                newUnit.defense += bonus;
+                break;
+            case "attaqueSpeciale":
+                bonus = Mathf.RoundToInt(newUnit.attaqueSpeciale * 0.1f);
+                newUnit.attaqueSpeciale += bonus;
+                break;
+            case "défenseSpeciale":
+                bonus = Mathf.RoundToInt(newUnit.defenseSpeciale * 0.1f);
+                newUnit.defenseSpeciale += bonus;
+                break;
+            case "vitesse":
+                bonus = Mathf.RoundToInt(newUnit.vitesse * 0.1f);
+                newUnit.vitesse += bonus;
+                break;
+            case "pv":
+                bonus = Mathf.RoundToInt(newUnit.pv * 0.1f);
+                newUnit.pv += bonus;
+                break;
+        }
     }
 
     private void setNature(PokeUnit newUnit)
