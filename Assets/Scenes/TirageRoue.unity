@@ -525,7 +525,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   wheel: {fileID: 851544140}
-  spinDuration: 5
+  spinDuration: 3
   spinCurve:
     serializedVersion: 2
     m_Curve:
@@ -551,6 +551,7 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   seed: 1358743
+  temoinGagnant: {fileID: 188332651}
 --- !u!114 &851544140
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -563,25 +564,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cabfee1cb296df5429114586d6c2b704, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  segments:
-  - label: Baron
-    dropRate: 0.05
-    color: {r: 0.754717, g: 0.19579923, b: 0.19579923, a: 1}
-  - label: Petit
-    dropRate: 0.2
-    color: {r: 0.57661426, g: 0.7735849, b: 0.37584552, a: 1}
-  - label: Grand
-    dropRate: 0.15
-    color: {r: 0.11213954, g: 0.3907454, b: 0.6792453, a: 1}
-  - label: Shiny
-    dropRate: 0.03
-    color: {r: 0.6784314, g: 0.11372547, b: 0.5510791, a: 1}
-  - label: Obscure
-    dropRate: 0.3
-    color: {r: 0.3375494, g: 0.10412959, b: 0.49056602, a: 1}
-  - label: Normal
-    dropRate: 0.27
-    color: {r: 0.3018868, g: 0.28052688, b: 0.29714015, a: 1}
+  segments: []
   radius: 5
   slicePrefab: {fileID: 374340364059438125, guid: faf28f2b923c0bd49b2290cbe804056c, type: 3}
 --- !u!4 &851544141
@@ -633,7 +616,7 @@ MonoBehaviour:
   baseUnit: {fileID: 0}
   outputFolder: Pokemon/GeneratedUnits/
   resourcePath: Pokemon/
-  author: 
+  author: Jara
   createdCount: 0
 --- !u!4 &1099538265
 Transform:

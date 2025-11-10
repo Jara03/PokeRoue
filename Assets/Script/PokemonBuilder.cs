@@ -278,8 +278,8 @@ public class PokemonBuilder : MonoBehaviour
             new WheelSegment { label = "attaqueSpeciale", dropRate = 0.05f, color = Random.ColorHSV() },
             new WheelSegment { label = "défenseSpeciale", dropRate = 0.05f, color = Random.ColorHSV() },
             new WheelSegment { label = "None2", dropRate = 0.10f, color = Random.ColorHSV() },
-            new WheelSegment { label = "vitesse", dropRate = 0.0005f, color = Random.ColorHSV() },
-            new WheelSegment { label = "pv", dropRate = 0.0005f, color = Random.ColorHSV() },
+            new WheelSegment { label = "vitesse", dropRate = 0.05f, color = Random.ColorHSV() },
+            new WheelSegment { label = "pv", dropRate = 0.05f, color = Random.ColorHSV() },
             new WheelSegment { label = "None3", dropRate = 0.10f, color = Random.ColorHSV() }
         };
 

@@ -8,4 +8,5 @@ public class WheelSegment
     [Range(0f, 1f)] public float dropRate;
     public Color color = Color.white;
     public Sprite artwork;
+    public GameObject prefab;
 }

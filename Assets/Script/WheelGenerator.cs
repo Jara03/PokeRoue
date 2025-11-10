@@ -55,17 +55,21 @@ public class WheelGenerator : MonoBehaviour
            
                 // --- Artwork setup ---
                 var artwork = slice.transform.GetChild(1).GetChild(0).GetComponent<Image>();
+                //slice.transform.GetChild(2).transform.localRotation = Quaternion.Euler(0f, 0f,(sliceAngle/2));
+
                 
                 if (seg.artwork != null)
                 {
                     artwork.sprite = seg.artwork;
                     artwork.color = new Color(1f, 1f, 1f, 1f);
                     
-                    slice.transform.GetChild(1).transform.localRotation = Quaternion.Euler(0f, 0f,(sliceAngle/2));
-                    
                     txt.text = "";
                 }
                 
+                slice.transform.GetChild(1).transform.localRotation = Quaternion.Euler(0f, 0f,(sliceAngle/2));
+
+                // --- Prefab setup ---
+                seg.prefab = slice;
 
             currentAngle += sliceAngle;
         }

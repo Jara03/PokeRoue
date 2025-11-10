@@ -12,6 +12,7 @@ public class SpinWheelManager : MonoBehaviour
 
     private bool spinning = false;
     private float[] cumulativeWeights;
+    public GameObject temoinGagnant;
     
     public event Action<WheelSegment> OnSegmentSelected;
 
@@ -48,19 +49,10 @@ public class SpinWheelManager : MonoBehaviour
         spinning = true;
         Random.InitState(seed == 0 ? System.Environment.TickCount : seed);
 
-        float total = cumulativeWeights[cumulativeWeights.Length - 1];
-        float rand = Random.Range(0f, total);
-
-        // Trouve le segment gagnant
+       // float total = cumulativeWeights[cumulativeWeights.Length - 1];
+        
         int winnerIndex = 0;
-        for (int i = 0; i < cumulativeWeights.Length; i++)
-        {
-            if (rand <= cumulativeWeights[i])
-            {
-                winnerIndex = i;
-                break;
-            }
-        }
+        
 
         float targetAngle = GetTargetAngle(winnerIndex);
         float fullRotations = 720f; // 2 tours de base
@@ -79,11 +71,31 @@ public class SpinWheelManager : MonoBehaviour
 
         wheel.transform.eulerAngles = new Vector3(0, 0, endAngle);
         spinning = false;
+        winnerIndex = getWinnerTemoinGagnant();
+        //winnerIndex = 1;
         //attendre x secondes avant de terminer la fonction
         yield return new WaitForSeconds(2f);
 
         Debug.Log($"Résultat : {wheel.segments[winnerIndex].label}");
         OnSegmentSelected?.Invoke(wheel.segments[winnerIndex]);
+    }
+
+    public int getWinnerTemoinGagnant()
+    {
+        // le texte dans le segment le plus proche (en distance) du temoinGagnant, sera le segment winnerIndex
+        WheelSegment winner = wheel.segments[0];
+        foreach (var seg in wheel.segments)
+        {
+
+            if (seg.prefab == null) continue;
+            float distance = Vector3.Distance(seg.prefab.transform.GetChild(1).GetChild(1).position, temoinGagnant.transform.position);
+            Debug.Log(seg.label + " : " + distance);
+
+            if (distance < Vector3.Distance(winner.prefab.transform.GetChild(1).GetChild(1).position, temoinGagnant.transform.position))
+                winner = seg;
+            
+        }
+        return Array.IndexOf(wheel.segments, winner);
     }
 
     float GetTargetAngle(int index)
