@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ad79006-23fe-4cd3-95b3-e1cb0b031c46" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PokéRoue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PokéRoue/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TirageRoue.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TirageRoue.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/SpinWheelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SpinWheelManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/WheelGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/WheelGenerator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/WheelSegment.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/WheelSegment.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/prefab/SlicePrefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/prefab/SlicePrefab.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-6000.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-6000.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +132,7 @@
       <workItem from="1762535260523" duration="11730000" />
       <workItem from="1762589169541" duration="31509000" />
       <workItem from="1762683182167" duration="11084000" />
-      <workItem from="1762771633013" duration="985000" />
+      <workItem from="1762771633013" duration="1850000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -243,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762636812485</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="fixed wheel winner selection">
+      <option name="closed" value="true" />
+      <created>1762772818218</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1762772818218</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,7 +286,8 @@
     <MESSAGE value="added pokemons" />
     <MESSAGE value="added artwork" />
     <MESSAGE value="added arena and pokeball fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="added arena and pokeball fix" />
+    <MESSAGE value="fixed wheel winner selection" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed wheel winner selection" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

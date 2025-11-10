@@ -51,6 +51,7 @@
     <Compile Include="Assets\Script\WheelGenerator.cs" />
     <Compile Include="Assets\Script\SpinWheelManager.cs" />
     <Compile Include="Assets\Script\PokemonBuilder.cs" />
+    <Compile Include="Assets\GameManager.cs" />
     <Compile Include="Assets\Script\WheelSegment.cs" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
