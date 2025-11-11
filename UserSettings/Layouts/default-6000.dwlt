@@ -986,7 +986,11 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
+<<<<<<< Updated upstream
     m_Target: {x: 358.67343, y: 286.61737, z: 1.2600137}
+=======
+    m_Target: {x: -0.6355017, y: -0.56415486, z: 0.043393623}
+>>>>>>> Stashed changes
     speed: 2
     m_Value: {x: 358.67343, y: 286.61737, z: 1.2600137}
   m_RenderMode: 0
@@ -1038,7 +1042,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< Updated upstream
     m_Target: 319.5014
+=======
+    m_Target: 5.6607437
+>>>>>>> Stashed changes
     speed: 2
     m_Value: 319.5014
   m_Ortho:
@@ -1221,7 +1229,11 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
+<<<<<<< Updated upstream
     - Assets/Resources/Balls
+=======
+    - Assets
+>>>>>>> Stashed changes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1238,9 +1250,15 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_SelectedIDs: 9ed40000
     m_LastClickedID: 54430
     m_ExpandedIDs: 00000000e2b30000
+=======
+    m_SelectedIDs: d8b40000
+    m_LastClickedID: 46296
+    m_ExpandedIDs: 000000008ab30000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1269,7 +1287,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
     m_ExpandedIDs: 00000000e2b30000
+=======
+    m_ExpandedIDs: 000000008ab30000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
